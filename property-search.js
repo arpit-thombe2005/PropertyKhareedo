@@ -76,7 +76,7 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   function buildUrl({ city, min_price, max_price, p_type }) {
-    const url = new URL('/PropertyKhareedo-master/property-search.php', window.location.origin);
+    const url = new URL('PropertyKhareedo/property-search.php', window.location.href);
 
     if (city && city.toLowerCase() !== 'all') url.searchParams.append('city', city);
     if (min_price) url.searchParams.append('min_price', min_price);
