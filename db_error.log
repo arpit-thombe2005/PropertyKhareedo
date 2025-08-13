@@ -1,0 +1,1044 @@
+Array
+(
+    [0] => Array
+        (
+            [0] => 42000
+            [SQLSTATE] => 42000
+            [1] => 40615
+            [code] => 40615
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Cannot open server 'propertykhareedo' requested by the login. Client with IP address '110.224.126.24' is not allowed to access the server.  To enable access, use the Azure Management Portal or run sp_set_firewall_rule on the master database to create a firewall rule for this IP address or address range.  It may take up to five minutes for this change to take effect.
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Cannot open server 'propertykhareedo' requested by the login. Client with IP address '110.224.126.24' is not allowed to access the server.  To enable access, use the Azure Management Portal or run sp_set_firewall_rule on the master database to create a firewall rule for this IP address or address range.  It may take up to five minutes for this change to take effect.
+        )
+
+    [1] => Array
+        (
+            [0] => 42000
+            [SQLSTATE] => 42000
+            [1] => 40615
+            [code] => 40615
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Cannot open server 'propertykhareedo' requested by the login. Client with IP address '110.224.126.24' is not allowed to access the server.  To enable access, use the Azure Management Portal or run sp_set_firewall_rule on the master database to create a firewall rule for this IP address or address range.  It may take up to five minutes for this change to take effect.
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Cannot open server 'propertykhareedo' requested by the login. Client with IP address '110.224.126.24' is not allowed to access the server.  To enable access, use the Azure Management Portal or run sp_set_firewall_rule on the master database to create a firewall rule for this IP address or address range.  It may take up to five minutes for this change to take effect.
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => FA004
+            [SQLSTATE] => FA004
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Failed to authenticate the user 'pushkar.waykole@vit.edu.in' in Entra ID (Authentication option is 'ActiveDirectoryPassword').
+Error code 0x4B0; state 10
+The credential is invalid.Recieved an error from AAD. Code: 'invalid_grant' description: '(pii)' correlation id: 'd8702e04-c729-d441-a321-cf870835b1aa'
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Failed to authenticate the user 'pushkar.waykole@vit.edu.in' in Entra ID (Authentication option is 'ActiveDirectoryPassword').
+Error code 0x4B0; state 10
+The credential is invalid.Recieved an error from AAD. Code: 'invalid_grant' description: '(pii)' correlation id: 'd8702e04-c729-d441-a321-cf870835b1aa'
+        )
+
+    [1] => Array
+        (
+            [0] => FA004
+            [SQLSTATE] => FA004
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Failed to authenticate the user 'pushkar.waykole@vit.edu.in' in Entra ID (Authentication option is 'ActiveDirectoryPassword').
+Error code 0x4B0; state 10
+The credential is invalid.Recieved an error from AAD. Code: 'invalid_grant' description: '(pii)' correlation id: 'd8702e04-c729-d441-a321-cf870835b1aa'
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Failed to authenticate the user 'pushkar.waykole@vit.edu.in' in Entra ID (Authentication option is 'ActiveDirectoryPassword').
+Error code 0x4B0; state 10
+The credential is invalid.Recieved an error from AAD. Code: 'invalid_grant' description: '(pii)' correlation id: 'd8702e04-c729-d441-a321-cf870835b1aa'
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 64
+            [code] => 64
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [64]. 
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [64]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 64
+            [code] => 64
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to propertykhareedo.database.windows.net. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to propertykhareedo.database.windows.net. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Timeout error [258]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 258
+            [code] => 258
+            [2] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+            [message] => [Microsoft][ODBC Driver 18 for SQL Server]Unable to complete login process due to delay in login response
+        )
+
+)

@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Special Offers - Company</title>
+    <link rel="stylesheet" href="homepage.css">
+    <link rel="stylesheet" href="dropdown.css">
+    <link rel="stylesheet" href="modal-forms.css">
+    <link rel="stylesheet" href="button.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header"> 
+        <div class="header-container">
+            <a href="homepage.html" class="logo">
+                <img src="images/transparent.png" alt="Company Logo" class="logo-image">
+            </a>
+            <div class="dropdown">
+            <button class="account-btn" id="accountBtn" title="Account">
+                <span style="font-size:22px;">👤</span>
+            </button>
+
+            <div class="dropdown-content">
+            <div id="loggedOutMenu">
+                <a href="#" onclick="showModal('signupModal');return false;">Signup</a>
+                <a href="#" onclick="showModal('loginModal');return false;">Login</a>
+            </div>
+            <div id="loggedInMenu" style="display:none">
+                <a href="#" id="yourProfileBtn">Your Profile</a>
+                <a href="homepage.html" id="signoutBtn">Sign Out</a>
+            </div>
+            </div>
+            <div id="signupModal" class="modal modal-hidden">
+         <div class="modal-content" onclick="event.stopPropagation();">
+          <button class="close-btn" onclick="closeModal('signupModal')">&times;</button>
+          <div id="transition-overlay" class="transition-overlay">
+          <div class="transition-loader"></div>
+        </div> 
+        <!-- <div id="messageBox" style="color: green; margin-top: 10px;"></div> -->
+    
+    <div class="container">
+        <h2>Registration Form</h2>
+        <form id="contactForm">
+            <div class="name-row">
+                <div class="name-field">
+                    <label for="fname">First Name:</label>
+                    <input type="text" id="fname" name="fname" required>
+                </div>
+                <div class="name-field">
+                    <label for="mname">Middle Name:</label>
+                    <input type="text" id="mname" name="mname">
+                </div>
+                <div class="name-field">
+                    <label for="lname">Last Name:</label>
+                    <input type="text" id="lname" name="lname" required>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+            </div>
+
+            <div class="form-group">
+                <label for="uname">Username:</label>
+                <input type="text" id="username" name="username" required>
+            </div>
+
+
+            <div class="form-group">
+                <label for="password">Password:</label>
+                <div class="password-container">
+                    <input type="password" id="password" name="password" required>
+                    <span id="togglePassword" class="eye-icon">🙈</span>
+                </div>
+                <div class="password-requirements">
+                    <small>Password must contain:</small>
+                    <ul>
+                        <li id="length">At least 7 characters</li>
+                        <li id="uppercase">One uppercase letter</li>
+                        <li id="lowercase">One lowercase letter</li>
+                        <li id="number">One number</li>
+                        <li id="special">One special character</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for="gender">Gender:</label>
+                <select id="gender" name="gender" required>
+                    <option value="">--Select--</option>
+                    <option value="male">Male</option>
+                    <option value="female">Female</option>
+                    <option value="transgender">Transgender</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="phone">Phone Number:</label>
+                <input type="text" id="phone" name="phone" maxlength="10" required>
+            </div>
+
+            <div class="form-group">
+                <label for="altPhone">Alternate Phone Number:</label>
+                <input type="text" id="altPhone" name="altPhone" maxlength="10" required>
+            </div>
+             <div class="daba">
+           <a class="no-style" href="#" onclick="closeModal('signupModal'); showModal('loginModal'); return false;"> Already registered? Login </a>
+           </div>
+
+            <button type="submit" class="submit-btn">Sign Up</button>
+        </form>
+        <div class="error-message" id="loginErrorMessage"></div>
+       
+    </div> 
+    </div>
+  </div>
+    <div id="loginModal" class="modal modal-hidden">
+    <div class="modal-content" onclick="event.stopPropagation();">
+        <button class="close-btn" onclick="closeModal('loginModal')">&times;</button>
+        <div class="container">
+            <h2>Login</h2>
+            <form id="loginForm" autocomplete="off">
+                <div class="form-group">
+                    <label for="loginUsername">Username</label>
+                    <input type="text" id="loginUsername" name="username" required />
+                    <!-- <span id="usernameError" class="error-message"></span> -->
+                </div>
+
+                <div class="form-group">
+                    <label for="loginPassword">Password</label>
+                    <div class="password-container">
+                        <input type="password" id="loginPassword" name="password" required />
+                        <span id="loginTogglePassword" class="eye-icon" title="eye">🙈</span>
+                        <!-- <span id="passwordError" class="error-message"></span> -->
+                    </div>
+                </div>
+
+                <div class="daba">
+                    <a class="no-style" href="#" onclick="closeModal('loginModal'); showModal('signupModal'); return false;">New User? Signup</a>
+                </div>
+                <div class="forgot-password-link">
+                    <a href="#" onclick="openForgotPasswordModal(); return false;">Forgot Password?</a>
+                </div>
+                <button type="submit" class="submit-btn">Login</button>
+            </form>
+            <div class="error-message" id="signupErrorMessage"></div>
+        </div>
+    </div>
+</div>
+  </div>
+
+        </div>      
+    </header>
+
+    <!-- Navigation Buttons -->
+    <nav class="nav-buttons">
+        <div class="nav-container">
+            <button class="nav-btn" onclick="window.location.href='about.html'">About Us</button>
+            <button class="nav-btn" onclick="window.location.href='gallery.html'">Gallery</button>
+            <button class="nav-btn active" onclick="window.location.href='offers.html'">Special Offers</button>
+            <button class="nav-btn" onclick="window.location.href='homepage.html#contact'">Contact Us</button>
+            <button class="nav-btn" onclick="window.location.href='property-search.html'">Find Property Nearby</button>
+            <button class="nav-btn" onclick="window.location.href='calculate-emi-rent.html'">Calculate EMI/Rent</button>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        <section class="content-section">
+            <h2>Special Offers</h2>
+            <div class="offers-content">
+                <p>Don't miss out on our exclusive deals and limited-time promotions!</p>
+                
+                <div class="offers-grid">
+                    <div class="offer-card">
+                        <h3>Limited Time Deal</h3>
+                        <div class="offer-price">50% OFF</div>
+                        <p>Get 50% off on selected services. Valid until end of month.</p>
+                        <button class="offer-btn">Learn More</button>
+                    </div>
+                    
+                    <div class="offer-card">
+                        <h3>New Customer Special</h3>
+                        <div class="offer-price">25% OFF</div>
+                        <p>First-time customers enjoy 25% discount on all services.</p>
+                        <button class="offer-btn">Claim Now</button>
+                    </div>
+                    
+                    <div class="offer-card">
+                        <h3>Bundle Package</h3>
+                        <div class="offer-price">Buy 2 Get 1</div>
+                        <p>Purchase any two services and get the third one absolutely free.</p>
+                        <button class="offer-btn">View Details</button>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Profile Slide-In Panel -->
+    <div id="profileOverlay"></div>
+        <div id="profilePanel">
+            <div class="profile-header">
+                <span>Your Profile</span>
+                <button id="closeProfileBtn">&times;</button>
+            </div>
+            <div class="profile-content-column">
+        <div class="profile-datum modern-card">
+            <div class="datum-label">First Name</div>
+            <div class="datum-value" id="profileFname"></div>
+        </div>
+        <div class="profile-datum modern-card">
+            <div class="datum-label">Middle Name</div>
+            <div class="datum-value" id="profileMname"></div>
+        </div>
+        <div class="profile-datum modern-card">
+            <div class="datum-label">Last Name</div>
+            <div class="datum-value" id="profileLname"></div>
+        </div>
+        <div class="profile-datum modern-card">
+            <div class="datum-label">Email</div>
+            <div class="datum-value" id="profileEmail"></div>
+        </div>
+        <div class="profile-datum modern-card">
+            <div class="datum-label">Username</div>
+            <div class="datum-value" id="profileUsername"></div>
+        </div>
+        <div class="profile-datum modern-card">
+            <div class="datum-label">Gender</div>
+            <div class="datum-value" id="profileGender"></div>
+        </div>
+        <div class="profile-datum modern-card">
+            <div class="datum-label">Phone</div>
+            <div class="datum-value" id="profilePhone"></div>
+        </div>
+        <div class="profile-datum modern-card">
+            <div class="datum-label">Alternate Phone</div>
+            <div class="datum-value" id="profileAltPhone"></div>
+        </div>
+        </div>
+    </div>
+
+    <!-- forgot password modal -->
+
+  <div id="forgotPasswordModal" class="modal modal-hidden">
+    <div class="modal-content">
+        <button class="close-btn" onclick="closeModal('forgotPasswordModal')">&times;</button>
+        <h2>Reset Password</h2>
+        <form id="forgotPasswordForm">
+            <div class="form-group">
+                <label for="fpUsername">Enter username or email:</label>
+                <input type="text" id="fpUsername" name="fpUsername" required />
+            </div>
+            <button type="submit" class="submit-btn">Send Reset Link</button>
+        </form>
+        <div class="error-message" id="forgotPasswordError"></div>
+        <div class="success-message" id="forgotPasswordSuccess"></div>
+    </div>
+</div>
+
+<!-- Reset Password Modal -->
+<div id="resetPasswordModal" class="modal modal-hidden">
+  <div class="modal-content">
+    <button class="close-btn" onclick="closeModal('resetPasswordModal')">&times;</button>
+    <h2>Set New Password</h2>
+    <form id="resetPasswordForm">
+      <input type="hidden" id="resetToken" name="token" />
+      <div class="form-group">
+        <label for="resetPassword">New Password:</label>
+        <input type="password" id="resetPassword" name="password" required minlength="6" />
+      </div>
+      <div class="form-group">
+        <label for="resetConfirmPassword">Confirm New Password:</label>
+        <input type="password" id="resetConfirmPassword" name="confirmPassword" required minlength="6" />
+      </div>
+      <button type="submit" class="submit-btn">Reset Password</button>
+    </form>
+    <div class="error-message" id="resetPasswordError"></div>
+    <div class="success-message" id="resetPasswordSuccess"></div>
+  </div>
+</div>
+
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-bottom">
+            <div class="footer-left"></div>
+            <div class="footer-center">
+                <p>&copy; 2025 Property Khareedo. All rights reserved.</p>
+            </div>
+            <div class="footer-right">
+                <button class="tc-btn" onclick="openTCModal()">Terms & Conditions</button>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Terms & Conditions Modal -->
+    <div id="tcModal" class="tc-modal">
+        <div class="tc-modal-content">
+            <button class="tc-close" onclick="closeTCModal()">x</button>
+            <h2>Terms & Conditions</h2>
+            <div class="tc-content">
+                <h3>1. Acceptance of Terms</h3>
+                <p>By accessing and using this website, you accept and agree to be bound by the terms and provision of this agreement.</p>
+                
+                <h3>2. Use License</h3>
+                <p>Permission is granted to temporarily download one copy of the materials on our website for personal, non-commercial transitory viewing only.</p>
+                
+                <h3>3. Disclaimer</h3>
+                <p>The materials on our website are provided on an 'as is' basis. We make no warranties, expressed or implied, and hereby disclaim and negate all other warranties including without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.</p>
+                
+                <h3>4. Limitations</h3>
+                <p>In no event shall our company or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on our website, even if we or our authorized representative has been notified orally or in writing of the possibility of such damage.</p>
+                
+                <h3>5. Privacy Policy</h3>
+                <p>Your privacy is important to us. Our Privacy Policy explains how we collect, use, and protect your information when you use our service.</p>
+            </div>
+        </div>
+    </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="offers.js"></script>
+    <script src="modal.js"></script>
+    <script src="index.js"></script>
+    <script src="login.js"></script>
+     
+</body>
+</html>
