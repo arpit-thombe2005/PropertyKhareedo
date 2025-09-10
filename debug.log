@@ -1,0 +1,646 @@
+SQL Query: 
+    SELECT id, p_name AS name, p_address AS address, zipcode, city, p_state AS state, price_lakhs, p_type AS type, p_status AS status
+    FROM properties
+    WHERE price_lakhs BETWEEN ? AND ?
+      AND p_status = 'Available'
+
+Params: Array
+(
+    [0] => 0
+    [1] => 1000000
+)
+
+SQL Query: 
+    SELECT id, p_name AS name, p_address AS address, zipcode, city, p_state AS state, price_lakhs, p_type AS type, p_status AS status
+    FROM properties
+    WHERE price_lakhs BETWEEN ? AND ?
+      AND p_status = 'Available'
+
+Params: Array
+(
+    [0] => 0
+    [1] => 1000000
+)
+
+SQL Query: 
+    SELECT id, p_name AS name, p_address AS address, zipcode, city, p_state AS state, price_lakhs, p_type AS type, p_status AS status
+    FROM properties
+    WHERE price_lakhs BETWEEN ? AND ?
+      AND p_status = 'Available'
+
+Params: Array
+(
+    [0] => 0
+    [1] => 1000000
+)
+
+SQL Query: 
+    SELECT id, p_name AS name, p_address AS address, zipcode, city, p_state AS state, price_lakhs, p_type AS type, p_status AS status
+    FROM properties
+    WHERE price_lakhs BETWEEN ? AND ?
+      AND p_status = 'Available'
+
+Params: Array
+(
+    [0] => 0
+    [1] => 1000000
+)
+
+SQL Query: 
+    SELECT id, p_name AS name, p_address AS address, zipcode, city, p_state AS state, price_lakhs, p_type AS type, p_status AS status
+    FROM properties
+    WHERE price_lakhs BETWEEN ? AND ?
+      AND p_status = 'Available'
+
+Params: Array
+(
+    [0] => 0
+    [1] => 1000000
+)
+
+SQL Query: 
+    SELECT id, p_name AS name, p_address AS address, zipcode, city, p_state AS state, price_lakhs, p_type AS type, p_status AS status
+    FROM properties
+    WHERE price_lakhs BETWEEN ? AND ?
+      AND p_status = 'Available'
+
+Params: Array
+(
+    [0] => 0
+    [1] => 1000000
+)
+
+SQL Query: 
+    SELECT id, p_name AS name, p_address AS address, zipcode, city, p_state AS state, price_lakhs, p_type AS type, p_status AS status
+    FROM properties
+    WHERE price_lakhs BETWEEN ? AND ?
+      AND p_status = 'Available'
+
+Params: Array
+(
+    [0] => 0
+    [1] => 1000000
+)
+
+SQL Query: 
+    SELECT id, p_name AS name, p_address AS address, zipcode, city, p_state AS state, price_lakhs, p_type AS type, p_status AS status
+    FROM properties
+    WHERE price_lakhs BETWEEN ? AND ?
+      AND p_status = 'Available'
+
+Params: Array
+(
+    [0] => 0
+    [1] => 1000000
+)
+
+SQL Query: 
+    SELECT id, p_name AS name, p_address AS address, zipcode, city, p_state AS state, price_lakhs, p_type AS type, p_status AS status
+    FROM properties
+    WHERE price_lakhs BETWEEN ? AND ?
+      AND p_status = 'Available'
+
+Params: Array
+(
+    [0] => 0
+    [1] => 1000000
+)
+
+SQL Query: 
+    SELECT id, p_name AS name, p_address AS address, zipcode, city, p_state AS state, price_lakhs, p_type AS type, p_status AS status
+    FROM properties
+    WHERE price_lakhs BETWEEN ? AND ?
+      AND p_status = 'Available'
+
+Params: Array
+(
+    [0] => 0
+    [1] => 1000000
+)
+
+SQL Query: 
+    SELECT id, p_name AS name, p_address AS address, zipcode, city, p_state AS state, price_lakhs, p_type AS type, p_status AS status
+    FROM properties
+    WHERE price_lakhs BETWEEN ? AND ?
+      AND p_status = 'Available'
+
+Params: Array
+(
+    [0] => 0
+    [1] => 1000000
+)
+
+SQL Query: 
+    SELECT id, p_name AS name, p_address AS address, zipcode, city, p_state AS state, price_lakhs, p_type AS type, p_status AS status
+    FROM properties
+    WHERE price_lakhs BETWEEN ? AND ?
+      AND p_status = 'Available'
+
+Params: Array
+(
+    [0] => 0
+    [1] => 1000000
+)
+
+SQL Query: 
+    SELECT id, p_name AS name, p_address AS address, zipcode, city, p_state AS state, price_lakhs, p_type AS type, p_status AS status
+    FROM properties
+    WHERE price_lakhs BETWEEN ? AND ?
+      AND p_status = 'Available'
+
+Params: Array
+(
+    [0] => 0
+    [1] => 1000000
+)
+
+SQL Query: 
+    SELECT id, p_name AS name, p_address AS address, zipcode, city, p_state AS state, price_lakhs, p_type AS type, p_status AS status
+    FROM properties
+    WHERE price_lakhs BETWEEN ? AND ?
+      AND p_status = 'Available'
+
+Params: Array
+(
+    [0] => 0
+    [1] => 1000000
+)
+
+SQL Query: 
+    SELECT id, p_name AS name, p_address AS address, zipcode, city, p_state AS state, price_lakhs, p_type AS type, p_status AS status
+    FROM properties
+    WHERE price_lakhs BETWEEN ? AND ?
+      AND p_status = 'Available'
+
+Params: Array
+(
+    [0] => 0
+    [1] => 1000000
+)
+
+SQL Query: 
+    SELECT id, p_name AS name, p_address AS address, zipcode, city, p_state AS state, price_lakhs, p_type AS type, p_status AS status
+    FROM properties
+    WHERE price_lakhs BETWEEN ? AND ?
+      AND p_status = 'Available'
+
+Params: Array
+(
+    [0] => 0
+    [1] => 1000000
+)
+
+SQL Query: 
+    SELECT id, p_name AS name, p_address AS address, zipcode, city, p_state AS state, price_lakhs, p_type AS type, p_status AS status
+    FROM properties
+    WHERE price_lakhs BETWEEN ? AND ?
+      AND p_status = 'Available'
+
+Params: Array
+(
+    [0] => 0
+    [1] => 1000000
+)
+
+SQL Query: 
+    SELECT id, p_name AS name, p_address AS address, zipcode, city, p_state AS state, price_lakhs, p_type AS type, p_status AS status
+    FROM properties
+    WHERE price_lakhs BETWEEN ? AND ?
+      AND p_status = 'Available'
+
+Params: Array
+(
+    [0] => 0
+    [1] => 1000000
+)
+
+SQL Query: 
+    SELECT id, p_name AS name, p_address AS address, zipcode, city, p_state AS state, price_lakhs, p_type AS type, p_status AS status
+    FROM properties
+    WHERE price_lakhs BETWEEN ? AND ?
+      AND p_status = 'Available'
+
+Params: Array
+(
+    [0] => 0
+    [1] => 1000000
+)
+
+SQL Query: 
+    SELECT id, p_name AS name, p_address AS address, zipcode, city, p_state AS state, price_lakhs, p_type AS type, p_status AS status
+    FROM properties
+    WHERE price_lakhs BETWEEN ? AND ?
+      AND p_status = 'Available'
+
+Params: Array
+(
+    [0] => 0
+    [1] => 1000000
+)
+
+SQL Query: 
+    SELECT id, p_name AS name, p_address AS address, zipcode, city, p_state AS state, price_lakhs, p_type AS type, p_status AS status
+    FROM properties
+    WHERE price_lakhs BETWEEN ? AND ?
+      AND p_status = 'Available'
+
+Params: Array
+(
+    [0] => 0
+    [1] => 1000000
+)
+
+SQL Query: 
+    SELECT id, p_name AS name, p_address AS address, zipcode, city, p_state AS state, price_lakhs, p_type AS type, p_status AS status
+    FROM properties
+    WHERE price_lakhs BETWEEN ? AND ?
+      AND p_status = 'Available'
+
+Params: Array
+(
+    [0] => 0
+    [1] => 1000000
+)
+
+SQL Query: 
+    SELECT id, p_name AS name, p_address AS address, zipcode, city, p_state AS state, price_lakhs, p_type AS type, p_status AS status
+    FROM properties
+    WHERE price_lakhs BETWEEN ? AND ?
+      AND p_status = 'Available'
+
+Params: Array
+(
+    [0] => 0
+    [1] => 1000000
+)
+
+SQL Query: 
+    SELECT id, p_name AS name, p_address AS address, zipcode, city, p_state AS state, price_lakhs, p_type AS type, p_status AS status
+    FROM properties
+    WHERE price_lakhs BETWEEN ? AND ?
+      AND p_status = 'Available'
+
+Params: Array
+(
+    [0] => 0
+    [1] => 1000000
+)
+
+SQL Query: 
+    SELECT id, p_name AS name, p_address AS address, zipcode, city, p_state AS state, price_lakhs, p_type AS type, p_status AS status
+    FROM properties
+    WHERE price_lakhs BETWEEN ? AND ?
+      AND p_status = 'Available'
+
+Params: Array
+(
+    [0] => 0
+    [1] => 1000000
+)
+
+SQL Query: 
+    SELECT id, p_name AS name, p_address AS address, zipcode, city, p_state AS state, price_lakhs, p_type AS type, p_status AS status
+    FROM properties
+    WHERE price_lakhs BETWEEN ? AND ?
+      AND p_status = 'Available'
+
+Params: Array
+(
+    [0] => 0
+    [1] => 1000000
+)
+
+SQL Query: 
+    SELECT id, p_name AS name, p_address AS address, zipcode, city, p_state AS state, price_lakhs, p_type AS type, p_status AS status
+    FROM properties
+    WHERE price_lakhs BETWEEN ? AND ?
+      AND p_status = 'Available'
+
+Params: Array
+(
+    [0] => 0
+    [1] => 1000000
+)
+
+SQL Query: 
+    SELECT id, p_name AS name, p_address AS address, zipcode, city, p_state AS state, price_lakhs, p_type AS type, p_status AS status
+    FROM properties
+    WHERE price_lakhs BETWEEN ? AND ?
+      AND p_status = 'Available'
+
+Params: Array
+(
+    [0] => 0
+    [1] => 1000000
+)
+
+SQL Query: 
+    SELECT id, p_name AS name, p_address AS address, zipcode, city, p_state AS state, price_lakhs, p_type AS type, p_status AS status
+    FROM properties
+    WHERE price_lakhs BETWEEN ? AND ?
+      AND p_status = 'Available'
+
+Params: Array
+(
+    [0] => 0
+    [1] => 1000000
+)
+
+SQL Query: 
+    SELECT id, p_name AS name, p_address AS address, zipcode, city, p_state AS state, price_lakhs, p_type AS type, p_status AS status
+    FROM properties
+    WHERE price_lakhs BETWEEN ? AND ?
+      AND p_status = 'Available'
+
+Params: Array
+(
+    [0] => 0
+    [1] => 1000000
+)
+
+SQL Query: 
+    SELECT id, p_name AS name, p_address AS address, zipcode, city, p_state AS state, 
+           price_lakhs, p_type AS type, p_status AS status
+    FROM properties
+    WHERE price_lakhs BETWEEN ? AND ?
+      AND p_status = 'Available'
+
+Params: Array
+(
+    [0] => 0
+    [1] => 1000000
+)
+
+SQL Query: 
+    SELECT id, p_name AS name, p_address AS address, zipcode, city, p_state AS state, 
+           price_lakhs, p_type AS type, p_status AS status
+    FROM properties
+    WHERE price_lakhs BETWEEN ? AND ?
+      AND p_status = 'Available'
+
+Params: Array
+(
+    [0] => 0
+    [1] => 1000000
+)
+
+SQL Query: 
+    SELECT id, p_name AS name, p_address AS address, zipcode, city, p_state AS state, 
+           price_lakhs, p_type AS type, p_status AS status
+    FROM properties
+    WHERE price_lakhs BETWEEN ? AND ?
+      AND p_status = 'Available'
+
+Params: Array
+(
+    [0] => 0
+    [1] => 1000000
+)
+
+SQL Query: 
+    SELECT id, p_name AS name, p_address AS address, zipcode, city, p_state AS state, 
+           price_lakhs, p_type AS type, p_status AS status
+    FROM properties
+    WHERE price_lakhs BETWEEN ? AND ?
+      AND p_status = 'Available'
+
+Params: Array
+(
+    [0] => 0
+    [1] => 1000000
+)
+
+Script reached at 2025-08-05T18:41:16+02:00
+SQL Query: 
+    SELECT id, p_name AS name, p_address AS address, zipcode, city, p_state AS state, 
+           price_lakhs, p_type AS type, p_status AS status
+    FROM properties
+    WHERE price_lakhs BETWEEN ? AND ?
+      AND p_status = 'Available'
+
+Params: Array
+(
+    [0] => 0
+    [1] => 1000000
+)
+
+Results count: 7
+Script reached at 2025-08-05T18:42:02+02:00
+SQL Query: 
+    SELECT id, p_name AS name, p_address AS address, zipcode, city, p_state AS state, 
+           price_lakhs, p_type AS type, p_status AS status
+    FROM properties
+    WHERE price_lakhs BETWEEN ? AND ?
+      AND p_status = 'Available'
+
+Params: Array
+(
+    [0] => 0
+    [1] => 1000000
+)
+
+Script reached at 2025-08-05T18:43:43+02:00
+SQL Query: 
+    SELECT id, p_name AS name, p_address AS address, zipcode, city, p_state AS state, 
+           price_lakhs, p_type AS type, p_status AS status
+    FROM properties
+    WHERE price_lakhs BETWEEN ? AND ?
+      AND p_status = 'Available'
+ AND LOWER(RTRIM(LTRIM(city))) LIKE ? AND LOWER(p_type) = ?
+Params: Array
+(
+    [0] => 10
+    [1] => 100
+    [2] => %bengaluru%
+    [3] => 2bhk
+)
+
+Script reached at 2025-08-05T18:44:07+02:00
+SQL Query: 
+    SELECT id, p_name AS name, p_address AS address, zipcode, city, p_state AS state, 
+           price_lakhs, p_type AS type, p_status AS status
+    FROM properties
+    WHERE price_lakhs BETWEEN ? AND ?
+      AND p_status = 'Available'
+ AND LOWER(RTRIM(LTRIM(city))) LIKE ? AND LOWER(p_type) = ?
+Params: Array
+(
+    [0] => 10
+    [1] => 100
+    [2] => %bengaluru%
+    [3] => 2bhk
+)
+
+Script reached at 2025-08-05T18:44:56+02:00
+SQL Query: 
+    SELECT id, p_name AS name, p_address AS address, zipcode, city, p_state AS state, 
+           price_lakhs, p_type AS type, p_status AS status
+    FROM properties
+    WHERE price_lakhs BETWEEN ? AND ?
+      AND p_status = 'Available'
+
+Params: Array
+(
+    [0] => 0
+    [1] => 1000000
+)
+
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)

@@ -1,0 +1,64 @@
+.values-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    text-align: center; /* Center the entire container */
+}
+
+.values-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: #333;
+}
+
+.values-list {
+    /* Remove default padding and margin */
+    margin: 0 auto;
+    padding: 0;
+    list-style: none;
+    
+    /* Center the list and make it inline-block for proper centering */
+    display: inline-block;
+    text-align: left; /* Keep text left-aligned within the centered container */
+    
+    /* Create custom positioning */
+    position: relative;
+}
+
+.values-list li {
+    /* Position relative for bullet positioning */
+    position: relative;
+    
+    /* Add padding only on the left for text spacing */
+    padding-left: 20px;
+    
+    /* Remove default margins */
+    margin: 0 0 10px 0;
+    
+    /* Text styling */
+    font-size: 16px;
+    line-height: 1.5;
+    color: #555;
+}
+
+/* Create custom bullet points close to text */
+.values-list li::before {
+    content: "•";
+    position: absolute;
+    left: 8px; /* Keep dots close to text */
+    top: 0;
+    color: #333;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+/* Alternative approach with even closer dots */
+.values-list.tight li {
+    padding-left: 15px;
+}
+
+.values-list.tight li::before {
+    left: 5px;
+}

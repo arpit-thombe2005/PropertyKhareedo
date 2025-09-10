@@ -1,0 +1,1947 @@
+Array
+(
+    [city] => Bengaluru
+    [p_type] => Villa
+    [p_name] => Crystal Crest
+    [price_lakhs] => 80
+    [image_url] => https://t4.ftcdn.net/jpg/01/04/18/49/240_F_104184958_ERA8sDkLgGA5gIVrQSZYVAfnEQphM62Q.jpg
+    [p_address] => Crystal Crest Towers, Palm Grove Road, Indiranagar
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Mumbai
+    [p_type] => 2 BHK Room
+    [p_name] => The Ivory Heights
+    [price_lakhs] => 100
+    [image_url] => https://t4.ftcdn.net/jpg/06/98/05/53/240_F_698055350_100b03sG3i13ZCNh1sk0RZZQpL7PhR5B.jpg
+    [p_address] => Plot No. 17, Skyline Avenue, Bandra West
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Hyderabad
+    [p_type] => Villa
+    [p_name] => Elysian Grove
+    [price_lakhs] => 90
+    [image_url] => https://t4.ftcdn.net/jpg/00/72/27/93/240_F_72279343_tJQQGKE3shNa3S2JUKk87BWtv0y3FHBz.jpg
+    [p_address] => Survey No. 42, Elysian Lane, Jubilee Hills
+    [p_status] => sold
+)
+
+Array
+(
+    [city] => Noida
+    [p_type] => 4 BHK Room
+    [p_name] => Sapphire Solace
+    [price_lakhs] => 120
+    [image_url] => https://www.sobhaneopolis.net.in/images/sobha/sobha-neopolis-4-bhk-apartment-floor-plan.webp
+    [p_address] => Tower B, Sapphire Boulevard, Sector 62
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Pune
+    [p_type] => Studio
+    [p_name] => Magnolia Arcadia
+    [price_lakhs] => 130
+    [image_url] => https://t3.ftcdn.net/jpg/05/00/88/98/240_F_500889898_9gsGKbK95pnaVfxOSSIxxFoCAavZFPJv.jpg
+    [p_address] => 8 Arcadia Enclave, Viman Nagar
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Bengaluru
+    [p_type] => Shop
+    [p_name] => Skyline Edge
+    [price_lakhs] => 75
+    [image_url] => https://t4.ftcdn.net/jpg/04/60/08/95/240_F_460089557_xDjwMurexPPW4jOtTKUpGl6xdsU8t6Cq.jpg
+    [p_address] => 11th Cross, Skyline Tech Park Road, Whitefield
+    [p_status] => sold
+)
+
+Array
+(
+    [city] => Greater Noida
+    [p_type] => Bungalow
+    [p_name] => Nova Habitat
+    [price_lakhs] => 110
+    [image_url] => https://t3.ftcdn.net/jpg/02/90/40/50/240_F_290405055_8snlcpxFGfGwQL6DgUZ3bLRWwLX8p19n.jpg
+    [p_address] => Nova Towers, Knowledge Park III
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Lucknow
+    [p_type] => 3 BHK Room
+    [p_name] => Urban Axis
+    [price_lakhs] => 95
+    [image_url] => https://t4.ftcdn.net/jpg/06/98/05/53/240_F_698055332_LISj2HpyldObSVu5Bfab9YnWyO5sNaRY.jpg
+    [p_address] => Urban Axis Residency, Sushant Golf City
+    [p_status] => sold
+)
+
+Array
+(
+    [city] => Hyderabad
+    [p_type] => Penthouse
+    [p_name] => Zenith Square
+    [price_lakhs] => 135
+    [image_url] => https://t4.ftcdn.net/jpg/12/98/56/73/240_F_1298567314_IsBdIZdXp12fTv72q1BrnECwWPuz3cNq.jpg
+    [p_address] => 5 Zenith Plaza, Near Hitech City MMTS
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Pune
+    [p_type] => Farmhouse
+    [p_name] => Vertex One
+    [price_lakhs] => 112
+    [image_url] => https://t3.ftcdn.net/jpg/01/66/70/06/240_F_166700608_f9DbD1Z2KgI1Ehs1glpHKG0salH1qG6M.jpg
+    [p_address] => Vertex One Business Bay, Baner–Pashan Link Road
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Bengaluru
+    [p_type] => Villa
+    [p_name] => Crystal Crest
+    [price_lakhs] => 80
+    [image_url] => https://t4.ftcdn.net/jpg/01/04/18/49/240_F_104184958_ERA8sDkLgGA5gIVrQSZYVAfnEQphM62Q.jpg
+    [p_address] => Crystal Crest Towers, Palm Grove Road, Indiranagar
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Mumbai
+    [p_type] => 2 BHK Room
+    [p_name] => The Ivory Heights
+    [price_lakhs] => 100
+    [image_url] => https://t4.ftcdn.net/jpg/06/98/05/53/240_F_698055350_100b03sG3i13ZCNh1sk0RZZQpL7PhR5B.jpg
+    [p_address] => Plot No. 17, Skyline Avenue, Bandra West
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Hyderabad
+    [p_type] => Villa
+    [p_name] => Elysian Grove
+    [price_lakhs] => 90
+    [image_url] => https://t4.ftcdn.net/jpg/00/72/27/93/240_F_72279343_tJQQGKE3shNa3S2JUKk87BWtv0y3FHBz.jpg
+    [p_address] => Survey No. 42, Elysian Lane, Jubilee Hills
+    [p_status] => sold
+)
+
+Array
+(
+    [city] => Noida
+    [p_type] => 4 BHK Room
+    [p_name] => Sapphire Solace
+    [price_lakhs] => 120
+    [image_url] => https://www.sobhaneopolis.net.in/images/sobha/sobha-neopolis-4-bhk-apartment-floor-plan.webp
+    [p_address] => Tower B, Sapphire Boulevard, Sector 62
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Pune
+    [p_type] => Studio
+    [p_name] => Magnolia Arcadia
+    [price_lakhs] => 130
+    [image_url] => https://t3.ftcdn.net/jpg/05/00/88/98/240_F_500889898_9gsGKbK95pnaVfxOSSIxxFoCAavZFPJv.jpg
+    [p_address] => 8 Arcadia Enclave, Viman Nagar
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Bengaluru
+    [p_type] => Shop
+    [p_name] => Skyline Edge
+    [price_lakhs] => 75
+    [image_url] => https://t4.ftcdn.net/jpg/04/60/08/95/240_F_460089557_xDjwMurexPPW4jOtTKUpGl6xdsU8t6Cq.jpg
+    [p_address] => 11th Cross, Skyline Tech Park Road, Whitefield
+    [p_status] => sold
+)
+
+Array
+(
+    [city] => Greater Noida
+    [p_type] => Bungalow
+    [p_name] => Nova Habitat
+    [price_lakhs] => 110
+    [image_url] => https://t3.ftcdn.net/jpg/02/90/40/50/240_F_290405055_8snlcpxFGfGwQL6DgUZ3bLRWwLX8p19n.jpg
+    [p_address] => Nova Towers, Knowledge Park III
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Lucknow
+    [p_type] => 3 BHK Room
+    [p_name] => Urban Axis
+    [price_lakhs] => 95
+    [image_url] => https://t4.ftcdn.net/jpg/06/98/05/53/240_F_698055332_LISj2HpyldObSVu5Bfab9YnWyO5sNaRY.jpg
+    [p_address] => Urban Axis Residency, Sushant Golf City
+    [p_status] => sold
+)
+
+Array
+(
+    [city] => Hyderabad
+    [p_type] => Penthouse
+    [p_name] => Zenith Square
+    [price_lakhs] => 135
+    [image_url] => https://t4.ftcdn.net/jpg/12/98/56/73/240_F_1298567314_IsBdIZdXp12fTv72q1BrnECwWPuz3cNq.jpg
+    [p_address] => 5 Zenith Plaza, Near Hitech City MMTS
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Pune
+    [p_type] => Farmhouse
+    [p_name] => Vertex One
+    [price_lakhs] => 112
+    [image_url] => https://t3.ftcdn.net/jpg/01/66/70/06/240_F_166700608_f9DbD1Z2KgI1Ehs1glpHKG0salH1qG6M.jpg
+    [p_address] => Vertex One Business Bay, Baner–Pashan Link Road
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Bengaluru
+    [p_type] => Villa
+    [p_name] => Crystal Crest
+    [price_lakhs] => 80
+    [image_url] => https://t4.ftcdn.net/jpg/01/04/18/49/240_F_104184958_ERA8sDkLgGA5gIVrQSZYVAfnEQphM62Q.jpg
+    [p_address] => Crystal Crest Towers, Palm Grove Road, Indiranagar
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Mumbai
+    [p_type] => 2 BHK Room
+    [p_name] => The Ivory Heights
+    [price_lakhs] => 100
+    [image_url] => https://t4.ftcdn.net/jpg/06/98/05/53/240_F_698055350_100b03sG3i13ZCNh1sk0RZZQpL7PhR5B.jpg
+    [p_address] => Plot No. 17, Skyline Avenue, Bandra West
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Hyderabad
+    [p_type] => Villa
+    [p_name] => Elysian Grove
+    [price_lakhs] => 90
+    [image_url] => https://t4.ftcdn.net/jpg/00/72/27/93/240_F_72279343_tJQQGKE3shNa3S2JUKk87BWtv0y3FHBz.jpg
+    [p_address] => Survey No. 42, Elysian Lane, Jubilee Hills
+    [p_status] => sold
+)
+
+Array
+(
+    [city] => Noida
+    [p_type] => 4 BHK Room
+    [p_name] => Sapphire Solace
+    [price_lakhs] => 120
+    [image_url] => https://www.sobhaneopolis.net.in/images/sobha/sobha-neopolis-4-bhk-apartment-floor-plan.webp
+    [p_address] => Tower B, Sapphire Boulevard, Sector 62
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Pune
+    [p_type] => Studio
+    [p_name] => Magnolia Arcadia
+    [price_lakhs] => 130
+    [image_url] => https://t3.ftcdn.net/jpg/05/00/88/98/240_F_500889898_9gsGKbK95pnaVfxOSSIxxFoCAavZFPJv.jpg
+    [p_address] => 8 Arcadia Enclave, Viman Nagar
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Bengaluru
+    [p_type] => Shop
+    [p_name] => Skyline Edge
+    [price_lakhs] => 75
+    [image_url] => https://t4.ftcdn.net/jpg/04/60/08/95/240_F_460089557_xDjwMurexPPW4jOtTKUpGl6xdsU8t6Cq.jpg
+    [p_address] => 11th Cross, Skyline Tech Park Road, Whitefield
+    [p_status] => sold
+)
+
+Array
+(
+    [city] => Greater Noida
+    [p_type] => Bungalow
+    [p_name] => Nova Habitat
+    [price_lakhs] => 110
+    [image_url] => https://t3.ftcdn.net/jpg/02/90/40/50/240_F_290405055_8snlcpxFGfGwQL6DgUZ3bLRWwLX8p19n.jpg
+    [p_address] => Nova Towers, Knowledge Park III
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Lucknow
+    [p_type] => 3 BHK Room
+    [p_name] => Urban Axis
+    [price_lakhs] => 95
+    [image_url] => https://t4.ftcdn.net/jpg/06/98/05/53/240_F_698055332_LISj2HpyldObSVu5Bfab9YnWyO5sNaRY.jpg
+    [p_address] => Urban Axis Residency, Sushant Golf City
+    [p_status] => sold
+)
+
+Array
+(
+    [city] => Hyderabad
+    [p_type] => Penthouse
+    [p_name] => Zenith Square
+    [price_lakhs] => 135
+    [image_url] => https://t4.ftcdn.net/jpg/12/98/56/73/240_F_1298567314_IsBdIZdXp12fTv72q1BrnECwWPuz3cNq.jpg
+    [p_address] => 5 Zenith Plaza, Near Hitech City MMTS
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Pune
+    [p_type] => Farmhouse
+    [p_name] => Vertex One
+    [price_lakhs] => 112
+    [image_url] => https://t3.ftcdn.net/jpg/01/66/70/06/240_F_166700608_f9DbD1Z2KgI1Ehs1glpHKG0salH1qG6M.jpg
+    [p_address] => Vertex One Business Bay, Baner–Pashan Link Road
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Bengaluru
+    [p_type] => Villa
+    [p_name] => Crystal Crest
+    [price_lakhs] => 80
+    [image_url] => https://t4.ftcdn.net/jpg/01/04/18/49/240_F_104184958_ERA8sDkLgGA5gIVrQSZYVAfnEQphM62Q.jpg
+    [p_address] => Crystal Crest Towers, Palm Grove Road, Indiranagar
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Bengaluru
+    [p_type] => Shop
+    [p_name] => Skyline Edge
+    [price_lakhs] => 75
+    [image_url] => https://t4.ftcdn.net/jpg/04/60/08/95/240_F_460089557_xDjwMurexPPW4jOtTKUpGl6xdsU8t6Cq.jpg
+    [p_address] => 11th Cross, Skyline Tech Park Road, Whitefield
+    [p_status] => sold
+)
+
+Array
+(
+    [city] => Bengaluru
+    [p_type] => Villa
+    [p_name] => Crystal Crest
+    [price_lakhs] => 80
+    [image_url] => https://t4.ftcdn.net/jpg/01/04/18/49/240_F_104184958_ERA8sDkLgGA5gIVrQSZYVAfnEQphM62Q.jpg
+    [p_address] => Crystal Crest Towers, Palm Grove Road, Indiranagar
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Bengaluru
+    [p_type] => Shop
+    [p_name] => Skyline Edge
+    [price_lakhs] => 75
+    [image_url] => https://t4.ftcdn.net/jpg/04/60/08/95/240_F_460089557_xDjwMurexPPW4jOtTKUpGl6xdsU8t6Cq.jpg
+    [p_address] => 11th Cross, Skyline Tech Park Road, Whitefield
+    [p_status] => sold
+)
+
+Array
+(
+    [city] => Mumbai
+    [p_type] => 2 BHK Room
+    [p_name] => The Ivory Heights
+    [price_lakhs] => 100
+    [image_url] => https://t4.ftcdn.net/jpg/06/98/05/53/240_F_698055350_100b03sG3i13ZCNh1sk0RZZQpL7PhR5B.jpg
+    [p_address] => Plot No. 17, Skyline Avenue, Bandra West
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Lucknow
+    [p_type] => 3 BHK Room
+    [p_name] => Urban Axis
+    [price_lakhs] => 95
+    [image_url] => https://t4.ftcdn.net/jpg/06/98/05/53/240_F_698055332_LISj2HpyldObSVu5Bfab9YnWyO5sNaRY.jpg
+    [p_address] => Urban Axis Residency, Sushant Golf City
+    [p_status] => sold
+)
+
+Array
+(
+    [city] => Noida
+    [p_type] => 4 BHK Room
+    [p_name] => Sapphire Solace
+    [price_lakhs] => 120
+    [image_url] => https://www.sobhaneopolis.net.in/images/sobha/sobha-neopolis-4-bhk-apartment-floor-plan.webp
+    [p_address] => Tower B, Sapphire Boulevard, Sector 62
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Bengaluru
+    [p_type] => Villa
+    [p_name] => Crystal Crest
+    [price_lakhs] => 80
+    [image_url] => https://t4.ftcdn.net/jpg/01/04/18/49/240_F_104184958_ERA8sDkLgGA5gIVrQSZYVAfnEQphM62Q.jpg
+    [p_address] => Crystal Crest Towers, Palm Grove Road, Indiranagar
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Hyderabad
+    [p_type] => Villa
+    [p_name] => Elysian Grove
+    [price_lakhs] => 90
+    [image_url] => https://t4.ftcdn.net/jpg/00/72/27/93/240_F_72279343_tJQQGKE3shNa3S2JUKk87BWtv0y3FHBz.jpg
+    [p_address] => Survey No. 42, Elysian Lane, Jubilee Hills
+    [p_status] => sold
+)
+
+Array
+(
+    [city] => Bengaluru
+    [p_type] => Shop
+    [p_name] => Skyline Edge
+    [price_lakhs] => 75
+    [image_url] => https://t4.ftcdn.net/jpg/04/60/08/95/240_F_460089557_xDjwMurexPPW4jOtTKUpGl6xdsU8t6Cq.jpg
+    [p_address] => 11th Cross, Skyline Tech Park Road, Whitefield
+    [p_status] => sold
+)
+
+Array
+(
+    [city] => Pune
+    [p_type] => Farmhouse
+    [p_name] => Vertex One
+    [price_lakhs] => 112
+    [image_url] => https://t3.ftcdn.net/jpg/01/66/70/06/240_F_166700608_f9DbD1Z2KgI1Ehs1glpHKG0salH1qG6M.jpg
+    [p_address] => Vertex One Business Bay, Baner–Pashan Link Road
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Hyderabad
+    [p_type] => Penthouse
+    [p_name] => Zenith Square
+    [price_lakhs] => 135
+    [image_url] => https://t4.ftcdn.net/jpg/12/98/56/73/240_F_1298567314_IsBdIZdXp12fTv72q1BrnECwWPuz3cNq.jpg
+    [p_address] => 5 Zenith Plaza, Near Hitech City MMTS
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Greater Noida
+    [p_type] => Bungalow
+    [p_name] => Nova Habitat
+    [price_lakhs] => 110
+    [image_url] => https://t3.ftcdn.net/jpg/02/90/40/50/240_F_290405055_8snlcpxFGfGwQL6DgUZ3bLRWwLX8p19n.jpg
+    [p_address] => Nova Towers, Knowledge Park III
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Pune
+    [p_type] => Studio
+    [p_name] => Magnolia Arcadia
+    [price_lakhs] => 130
+    [image_url] => https://t3.ftcdn.net/jpg/05/00/88/98/240_F_500889898_9gsGKbK95pnaVfxOSSIxxFoCAavZFPJv.jpg
+    [p_address] => 8 Arcadia Enclave, Viman Nagar
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Bengaluru
+    [p_type] => Shop
+    [p_name] => Skyline Edge
+    [price_lakhs] => 75
+    [image_url] => https://t4.ftcdn.net/jpg/04/60/08/95/240_F_460089557_xDjwMurexPPW4jOtTKUpGl6xdsU8t6Cq.jpg
+    [p_address] => 11th Cross, Skyline Tech Park Road, Whitefield
+    [p_status] => sold
+)
+
+Array
+(
+    [city] => Bengaluru
+    [p_type] => Villa
+    [p_name] => Crystal Crest
+    [price_lakhs] => 80
+    [image_url] => https://t4.ftcdn.net/jpg/01/04/18/49/240_F_104184958_ERA8sDkLgGA5gIVrQSZYVAfnEQphM62Q.jpg
+    [p_address] => Crystal Crest Towers, Palm Grove Road, Indiranagar
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Hyderabad
+    [p_type] => Villa
+    [p_name] => Elysian Grove
+    [price_lakhs] => 90
+    [image_url] => https://t4.ftcdn.net/jpg/00/72/27/93/240_F_72279343_tJQQGKE3shNa3S2JUKk87BWtv0y3FHBz.jpg
+    [p_address] => Survey No. 42, Elysian Lane, Jubilee Hills
+    [p_status] => sold
+)
+
+Array
+(
+    [city] => Bengaluru
+    [p_type] => Villa
+    [p_name] => Crystal Crest
+    [price_lakhs] => 80
+    [image_url] => https://t4.ftcdn.net/jpg/01/04/18/49/240_F_104184958_ERA8sDkLgGA5gIVrQSZYVAfnEQphM62Q.jpg
+    [p_address] => Crystal Crest Towers, Palm Grove Road, Indiranagar
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Bengaluru
+    [p_type] => Shop
+    [p_name] => Skyline Edge
+    [price_lakhs] => 75
+    [image_url] => https://t4.ftcdn.net/jpg/04/60/08/95/240_F_460089557_xDjwMurexPPW4jOtTKUpGl6xdsU8t6Cq.jpg
+    [p_address] => 11th Cross, Skyline Tech Park Road, Whitefield
+    [p_status] => sold
+)
+
+Array
+(
+    [city] => Bengaluru
+    [p_type] => Villa
+    [p_name] => Crystal Crest
+    [price_lakhs] => 80
+    [image_url] => https://t4.ftcdn.net/jpg/01/04/18/49/240_F_104184958_ERA8sDkLgGA5gIVrQSZYVAfnEQphM62Q.jpg
+    [p_address] => Crystal Crest Towers, Palm Grove Road, Indiranagar
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Mumbai
+    [p_type] => 2 BHK Room
+    [p_name] => The Ivory Heights
+    [price_lakhs] => 100
+    [image_url] => https://t4.ftcdn.net/jpg/06/98/05/53/240_F_698055350_100b03sG3i13ZCNh1sk0RZZQpL7PhR5B.jpg
+    [p_address] => Plot No. 17, Skyline Avenue, Bandra West
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Hyderabad
+    [p_type] => Villa
+    [p_name] => Elysian Grove
+    [price_lakhs] => 90
+    [image_url] => https://t4.ftcdn.net/jpg/00/72/27/93/240_F_72279343_tJQQGKE3shNa3S2JUKk87BWtv0y3FHBz.jpg
+    [p_address] => Survey No. 42, Elysian Lane, Jubilee Hills
+    [p_status] => sold
+)
+
+Array
+(
+    [city] => Noida
+    [p_type] => 4 BHK Room
+    [p_name] => Sapphire Solace
+    [price_lakhs] => 120
+    [image_url] => https://www.sobhaneopolis.net.in/images/sobha/sobha-neopolis-4-bhk-apartment-floor-plan.webp
+    [p_address] => Tower B, Sapphire Boulevard, Sector 62
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Pune
+    [p_type] => Studio
+    [p_name] => Magnolia Arcadia
+    [price_lakhs] => 130
+    [image_url] => https://t3.ftcdn.net/jpg/05/00/88/98/240_F_500889898_9gsGKbK95pnaVfxOSSIxxFoCAavZFPJv.jpg
+    [p_address] => 8 Arcadia Enclave, Viman Nagar
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Bengaluru
+    [p_type] => Shop
+    [p_name] => Skyline Edge
+    [price_lakhs] => 75
+    [image_url] => https://t4.ftcdn.net/jpg/04/60/08/95/240_F_460089557_xDjwMurexPPW4jOtTKUpGl6xdsU8t6Cq.jpg
+    [p_address] => 11th Cross, Skyline Tech Park Road, Whitefield
+    [p_status] => sold
+)
+
+Array
+(
+    [city] => Greater Noida
+    [p_type] => Bungalow
+    [p_name] => Nova Habitat
+    [price_lakhs] => 110
+    [image_url] => https://t3.ftcdn.net/jpg/02/90/40/50/240_F_290405055_8snlcpxFGfGwQL6DgUZ3bLRWwLX8p19n.jpg
+    [p_address] => Nova Towers, Knowledge Park III
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Lucknow
+    [p_type] => 3 BHK Room
+    [p_name] => Urban Axis
+    [price_lakhs] => 95
+    [image_url] => https://t4.ftcdn.net/jpg/06/98/05/53/240_F_698055332_LISj2HpyldObSVu5Bfab9YnWyO5sNaRY.jpg
+    [p_address] => Urban Axis Residency, Sushant Golf City
+    [p_status] => sold
+)
+
+Array
+(
+    [city] => Hyderabad
+    [p_type] => Penthouse
+    [p_name] => Zenith Square
+    [price_lakhs] => 135
+    [image_url] => https://t4.ftcdn.net/jpg/12/98/56/73/240_F_1298567314_IsBdIZdXp12fTv72q1BrnECwWPuz3cNq.jpg
+    [p_address] => 5 Zenith Plaza, Near Hitech City MMTS
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Pune
+    [p_type] => Farmhouse
+    [p_name] => Vertex One
+    [price_lakhs] => 112
+    [image_url] => https://t3.ftcdn.net/jpg/01/66/70/06/240_F_166700608_f9DbD1Z2KgI1Ehs1glpHKG0salH1qG6M.jpg
+    [p_address] => Vertex One Business Bay, Baner–Pashan Link Road
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Noida
+    [p_type] => 4 BHK Room
+    [p_name] => Sapphire Solace
+    [price_lakhs] => 120
+    [image_url] => https://www.sobhaneopolis.net.in/images/sobha/sobha-neopolis-4-bhk-apartment-floor-plan.webp
+    [p_address] => Tower B, Sapphire Boulevard, Sector 62
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Bengaluru
+    [p_type] => Villa
+    [p_name] => Crystal Crest
+    [price_lakhs] => 80
+    [image_url] => https://t4.ftcdn.net/jpg/01/04/18/49/240_F_104184958_ERA8sDkLgGA5gIVrQSZYVAfnEQphM62Q.jpg
+    [p_address] => Crystal Crest Towers, Palm Grove Road, Indiranagar
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Mumbai
+    [p_type] => 2 BHK Room
+    [p_name] => The Ivory Heights
+    [price_lakhs] => 100
+    [image_url] => https://t4.ftcdn.net/jpg/06/98/05/53/240_F_698055350_100b03sG3i13ZCNh1sk0RZZQpL7PhR5B.jpg
+    [p_address] => Plot No. 17, Skyline Avenue, Bandra West
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Hyderabad
+    [p_type] => Villa
+    [p_name] => Elysian Grove
+    [price_lakhs] => 90
+    [image_url] => https://t4.ftcdn.net/jpg/00/72/27/93/240_F_72279343_tJQQGKE3shNa3S2JUKk87BWtv0y3FHBz.jpg
+    [p_address] => Survey No. 42, Elysian Lane, Jubilee Hills
+    [p_status] => sold
+)
+
+Array
+(
+    [city] => Noida
+    [p_type] => 4 BHK Room
+    [p_name] => Sapphire Solace
+    [price_lakhs] => 120
+    [image_url] => https://www.sobhaneopolis.net.in/images/sobha/sobha-neopolis-4-bhk-apartment-floor-plan.webp
+    [p_address] => Tower B, Sapphire Boulevard, Sector 62
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Pune
+    [p_type] => Studio
+    [p_name] => Magnolia Arcadia
+    [price_lakhs] => 130
+    [image_url] => https://t3.ftcdn.net/jpg/05/00/88/98/240_F_500889898_9gsGKbK95pnaVfxOSSIxxFoCAavZFPJv.jpg
+    [p_address] => 8 Arcadia Enclave, Viman Nagar
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Bengaluru
+    [p_type] => Shop
+    [p_name] => Skyline Edge
+    [price_lakhs] => 75
+    [image_url] => https://t4.ftcdn.net/jpg/04/60/08/95/240_F_460089557_xDjwMurexPPW4jOtTKUpGl6xdsU8t6Cq.jpg
+    [p_address] => 11th Cross, Skyline Tech Park Road, Whitefield
+    [p_status] => sold
+)
+
+Array
+(
+    [city] => Greater Noida
+    [p_type] => Bungalow
+    [p_name] => Nova Habitat
+    [price_lakhs] => 110
+    [image_url] => https://t3.ftcdn.net/jpg/02/90/40/50/240_F_290405055_8snlcpxFGfGwQL6DgUZ3bLRWwLX8p19n.jpg
+    [p_address] => Nova Towers, Knowledge Park III
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Lucknow
+    [p_type] => 3 BHK Room
+    [p_name] => Urban Axis
+    [price_lakhs] => 95
+    [image_url] => https://t4.ftcdn.net/jpg/06/98/05/53/240_F_698055332_LISj2HpyldObSVu5Bfab9YnWyO5sNaRY.jpg
+    [p_address] => Urban Axis Residency, Sushant Golf City
+    [p_status] => sold
+)
+
+Array
+(
+    [city] => Hyderabad
+    [p_type] => Penthouse
+    [p_name] => Zenith Square
+    [price_lakhs] => 135
+    [image_url] => https://t4.ftcdn.net/jpg/12/98/56/73/240_F_1298567314_IsBdIZdXp12fTv72q1BrnECwWPuz3cNq.jpg
+    [p_address] => 5 Zenith Plaza, Near Hitech City MMTS
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Pune
+    [p_type] => Farmhouse
+    [p_name] => Vertex One
+    [price_lakhs] => 112
+    [image_url] => https://t3.ftcdn.net/jpg/01/66/70/06/240_F_166700608_f9DbD1Z2KgI1Ehs1glpHKG0salH1qG6M.jpg
+    [p_address] => Vertex One Business Bay, Baner–Pashan Link Road
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Bengaluru
+    [p_type] => Villa
+    [p_name] => Crystal Crest
+    [price_lakhs] => 80
+    [image_url] => https://t4.ftcdn.net/jpg/01/04/18/49/240_F_104184958_ERA8sDkLgGA5gIVrQSZYVAfnEQphM62Q.jpg
+    [p_address] => Crystal Crest Towers, Palm Grove Road, Indiranagar
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Mumbai
+    [p_type] => 2 BHK Room
+    [p_name] => The Ivory Heights
+    [price_lakhs] => 100
+    [image_url] => https://t4.ftcdn.net/jpg/06/98/05/53/240_F_698055350_100b03sG3i13ZCNh1sk0RZZQpL7PhR5B.jpg
+    [p_address] => Plot No. 17, Skyline Avenue, Bandra West
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Hyderabad
+    [p_type] => Villa
+    [p_name] => Elysian Grove
+    [price_lakhs] => 90
+    [image_url] => https://t4.ftcdn.net/jpg/00/72/27/93/240_F_72279343_tJQQGKE3shNa3S2JUKk87BWtv0y3FHBz.jpg
+    [p_address] => Survey No. 42, Elysian Lane, Jubilee Hills
+    [p_status] => sold
+)
+
+Array
+(
+    [city] => Noida
+    [p_type] => 4 BHK Room
+    [p_name] => Sapphire Solace
+    [price_lakhs] => 120
+    [image_url] => https://www.sobhaneopolis.net.in/images/sobha/sobha-neopolis-4-bhk-apartment-floor-plan.webp
+    [p_address] => Tower B, Sapphire Boulevard, Sector 62
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Pune
+    [p_type] => Studio
+    [p_name] => Magnolia Arcadia
+    [price_lakhs] => 130
+    [image_url] => https://t3.ftcdn.net/jpg/05/00/88/98/240_F_500889898_9gsGKbK95pnaVfxOSSIxxFoCAavZFPJv.jpg
+    [p_address] => 8 Arcadia Enclave, Viman Nagar
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Bengaluru
+    [p_type] => Shop
+    [p_name] => Skyline Edge
+    [price_lakhs] => 75
+    [image_url] => https://t4.ftcdn.net/jpg/04/60/08/95/240_F_460089557_xDjwMurexPPW4jOtTKUpGl6xdsU8t6Cq.jpg
+    [p_address] => 11th Cross, Skyline Tech Park Road, Whitefield
+    [p_status] => sold
+)
+
+Array
+(
+    [city] => Greater Noida
+    [p_type] => Bungalow
+    [p_name] => Nova Habitat
+    [price_lakhs] => 110
+    [image_url] => https://t3.ftcdn.net/jpg/02/90/40/50/240_F_290405055_8snlcpxFGfGwQL6DgUZ3bLRWwLX8p19n.jpg
+    [p_address] => Nova Towers, Knowledge Park III
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Lucknow
+    [p_type] => 3 BHK Room
+    [p_name] => Urban Axis
+    [price_lakhs] => 95
+    [image_url] => https://t4.ftcdn.net/jpg/06/98/05/53/240_F_698055332_LISj2HpyldObSVu5Bfab9YnWyO5sNaRY.jpg
+    [p_address] => Urban Axis Residency, Sushant Golf City
+    [p_status] => sold
+)
+
+Array
+(
+    [city] => Hyderabad
+    [p_type] => Penthouse
+    [p_name] => Zenith Square
+    [price_lakhs] => 135
+    [image_url] => https://t4.ftcdn.net/jpg/12/98/56/73/240_F_1298567314_IsBdIZdXp12fTv72q1BrnECwWPuz3cNq.jpg
+    [p_address] => 5 Zenith Plaza, Near Hitech City MMTS
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Pune
+    [p_type] => Farmhouse
+    [p_name] => Vertex One
+    [price_lakhs] => 112
+    [image_url] => https://t3.ftcdn.net/jpg/01/66/70/06/240_F_166700608_f9DbD1Z2KgI1Ehs1glpHKG0salH1qG6M.jpg
+    [p_address] => Vertex One Business Bay, Baner–Pashan Link Road
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Bengaluru
+    [p_type] => Villa
+    [p_name] => Crystal Crest
+    [price_lakhs] => 80
+    [image_url] => https://t4.ftcdn.net/jpg/01/04/18/49/240_F_104184958_ERA8sDkLgGA5gIVrQSZYVAfnEQphM62Q.jpg
+    [p_address] => Crystal Crest Towers, Palm Grove Road, Indiranagar
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Mumbai
+    [p_type] => 2 BHK Room
+    [p_name] => The Ivory Heights
+    [price_lakhs] => 100
+    [image_url] => https://t4.ftcdn.net/jpg/06/98/05/53/240_F_698055350_100b03sG3i13ZCNh1sk0RZZQpL7PhR5B.jpg
+    [p_address] => Plot No. 17, Skyline Avenue, Bandra West
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Hyderabad
+    [p_type] => Villa
+    [p_name] => Elysian Grove
+    [price_lakhs] => 90
+    [image_url] => https://t4.ftcdn.net/jpg/00/72/27/93/240_F_72279343_tJQQGKE3shNa3S2JUKk87BWtv0y3FHBz.jpg
+    [p_address] => Survey No. 42, Elysian Lane, Jubilee Hills
+    [p_status] => sold
+)
+
+Array
+(
+    [city] => Noida
+    [p_type] => 4 BHK Room
+    [p_name] => Sapphire Solace
+    [price_lakhs] => 120
+    [image_url] => https://www.sobhaneopolis.net.in/images/sobha/sobha-neopolis-4-bhk-apartment-floor-plan.webp
+    [p_address] => Tower B, Sapphire Boulevard, Sector 62
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Pune
+    [p_type] => Studio
+    [p_name] => Magnolia Arcadia
+    [price_lakhs] => 130
+    [image_url] => https://t3.ftcdn.net/jpg/05/00/88/98/240_F_500889898_9gsGKbK95pnaVfxOSSIxxFoCAavZFPJv.jpg
+    [p_address] => 8 Arcadia Enclave, Viman Nagar
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Bengaluru
+    [p_type] => Shop
+    [p_name] => Skyline Edge
+    [price_lakhs] => 75
+    [image_url] => https://t4.ftcdn.net/jpg/04/60/08/95/240_F_460089557_xDjwMurexPPW4jOtTKUpGl6xdsU8t6Cq.jpg
+    [p_address] => 11th Cross, Skyline Tech Park Road, Whitefield
+    [p_status] => sold
+)
+
+Array
+(
+    [city] => Greater Noida
+    [p_type] => Bungalow
+    [p_name] => Nova Habitat
+    [price_lakhs] => 110
+    [image_url] => https://t3.ftcdn.net/jpg/02/90/40/50/240_F_290405055_8snlcpxFGfGwQL6DgUZ3bLRWwLX8p19n.jpg
+    [p_address] => Nova Towers, Knowledge Park III
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Lucknow
+    [p_type] => 3 BHK Room
+    [p_name] => Urban Axis
+    [price_lakhs] => 95
+    [image_url] => https://t4.ftcdn.net/jpg/06/98/05/53/240_F_698055332_LISj2HpyldObSVu5Bfab9YnWyO5sNaRY.jpg
+    [p_address] => Urban Axis Residency, Sushant Golf City
+    [p_status] => sold
+)
+
+Array
+(
+    [city] => Hyderabad
+    [p_type] => Penthouse
+    [p_name] => Zenith Square
+    [price_lakhs] => 135
+    [image_url] => https://t4.ftcdn.net/jpg/12/98/56/73/240_F_1298567314_IsBdIZdXp12fTv72q1BrnECwWPuz3cNq.jpg
+    [p_address] => 5 Zenith Plaza, Near Hitech City MMTS
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Pune
+    [p_type] => Farmhouse
+    [p_name] => Vertex One
+    [price_lakhs] => 112
+    [image_url] => https://t3.ftcdn.net/jpg/01/66/70/06/240_F_166700608_f9DbD1Z2KgI1Ehs1glpHKG0salH1qG6M.jpg
+    [p_address] => Vertex One Business Bay, Baner–Pashan Link Road
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Bengaluru
+    [p_type] => Villa
+    [p_name] => Crystal Crest
+    [price_lakhs] => 80
+    [image_url] => https://t4.ftcdn.net/jpg/01/04/18/49/240_F_104184958_ERA8sDkLgGA5gIVrQSZYVAfnEQphM62Q.jpg
+    [p_address] => Crystal Crest Towers, Palm Grove Road, Indiranagar
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Mumbai
+    [p_type] => 2 BHK Room
+    [p_name] => The Ivory Heights
+    [price_lakhs] => 100
+    [image_url] => https://t4.ftcdn.net/jpg/06/98/05/53/240_F_698055350_100b03sG3i13ZCNh1sk0RZZQpL7PhR5B.jpg
+    [p_address] => Plot No. 17, Skyline Avenue, Bandra West
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Hyderabad
+    [p_type] => Villa
+    [p_name] => Elysian Grove
+    [price_lakhs] => 90
+    [image_url] => https://t4.ftcdn.net/jpg/00/72/27/93/240_F_72279343_tJQQGKE3shNa3S2JUKk87BWtv0y3FHBz.jpg
+    [p_address] => Survey No. 42, Elysian Lane, Jubilee Hills
+    [p_status] => sold
+)
+
+Array
+(
+    [city] => Noida
+    [p_type] => 4 BHK Room
+    [p_name] => Sapphire Solace
+    [price_lakhs] => 120
+    [image_url] => https://www.sobhaneopolis.net.in/images/sobha/sobha-neopolis-4-bhk-apartment-floor-plan.webp
+    [p_address] => Tower B, Sapphire Boulevard, Sector 62
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Pune
+    [p_type] => Studio
+    [p_name] => Magnolia Arcadia
+    [price_lakhs] => 130
+    [image_url] => https://t3.ftcdn.net/jpg/05/00/88/98/240_F_500889898_9gsGKbK95pnaVfxOSSIxxFoCAavZFPJv.jpg
+    [p_address] => 8 Arcadia Enclave, Viman Nagar
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Bengaluru
+    [p_type] => Shop
+    [p_name] => Skyline Edge
+    [price_lakhs] => 75
+    [image_url] => https://t4.ftcdn.net/jpg/04/60/08/95/240_F_460089557_xDjwMurexPPW4jOtTKUpGl6xdsU8t6Cq.jpg
+    [p_address] => 11th Cross, Skyline Tech Park Road, Whitefield
+    [p_status] => sold
+)
+
+Array
+(
+    [city] => Greater Noida
+    [p_type] => Bungalow
+    [p_name] => Nova Habitat
+    [price_lakhs] => 110
+    [image_url] => https://t3.ftcdn.net/jpg/02/90/40/50/240_F_290405055_8snlcpxFGfGwQL6DgUZ3bLRWwLX8p19n.jpg
+    [p_address] => Nova Towers, Knowledge Park III
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Lucknow
+    [p_type] => 3 BHK Room
+    [p_name] => Urban Axis
+    [price_lakhs] => 95
+    [image_url] => https://t4.ftcdn.net/jpg/06/98/05/53/240_F_698055332_LISj2HpyldObSVu5Bfab9YnWyO5sNaRY.jpg
+    [p_address] => Urban Axis Residency, Sushant Golf City
+    [p_status] => sold
+)
+
+Array
+(
+    [city] => Hyderabad
+    [p_type] => Penthouse
+    [p_name] => Zenith Square
+    [price_lakhs] => 135
+    [image_url] => https://t4.ftcdn.net/jpg/12/98/56/73/240_F_1298567314_IsBdIZdXp12fTv72q1BrnECwWPuz3cNq.jpg
+    [p_address] => 5 Zenith Plaza, Near Hitech City MMTS
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Pune
+    [p_type] => Farmhouse
+    [p_name] => Vertex One
+    [price_lakhs] => 112
+    [image_url] => https://t3.ftcdn.net/jpg/01/66/70/06/240_F_166700608_f9DbD1Z2KgI1Ehs1glpHKG0salH1qG6M.jpg
+    [p_address] => Vertex One Business Bay, Baner–Pashan Link Road
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Bengaluru
+    [p_type] => Villa
+    [p_name] => Crystal Crest
+    [price_lakhs] => 80
+    [image_url] => https://t4.ftcdn.net/jpg/01/04/18/49/240_F_104184958_ERA8sDkLgGA5gIVrQSZYVAfnEQphM62Q.jpg
+    [p_address] => Crystal Crest Towers, Palm Grove Road, Indiranagar
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Mumbai
+    [p_type] => 2 BHK Room
+    [p_name] => The Ivory Heights
+    [price_lakhs] => 100
+    [image_url] => https://t4.ftcdn.net/jpg/06/98/05/53/240_F_698055350_100b03sG3i13ZCNh1sk0RZZQpL7PhR5B.jpg
+    [p_address] => Plot No. 17, Skyline Avenue, Bandra West
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Hyderabad
+    [p_type] => Villa
+    [p_name] => Elysian Grove
+    [price_lakhs] => 90
+    [image_url] => https://t4.ftcdn.net/jpg/00/72/27/93/240_F_72279343_tJQQGKE3shNa3S2JUKk87BWtv0y3FHBz.jpg
+    [p_address] => Survey No. 42, Elysian Lane, Jubilee Hills
+    [p_status] => sold
+)
+
+Array
+(
+    [city] => Noida
+    [p_type] => 4 BHK Room
+    [p_name] => Sapphire Solace
+    [price_lakhs] => 120
+    [image_url] => https://www.sobhaneopolis.net.in/images/sobha/sobha-neopolis-4-bhk-apartment-floor-plan.webp
+    [p_address] => Tower B, Sapphire Boulevard, Sector 62
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Pune
+    [p_type] => Studio
+    [p_name] => Magnolia Arcadia
+    [price_lakhs] => 130
+    [image_url] => https://t3.ftcdn.net/jpg/05/00/88/98/240_F_500889898_9gsGKbK95pnaVfxOSSIxxFoCAavZFPJv.jpg
+    [p_address] => 8 Arcadia Enclave, Viman Nagar
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Bengaluru
+    [p_type] => Shop
+    [p_name] => Skyline Edge
+    [price_lakhs] => 75
+    [image_url] => https://t4.ftcdn.net/jpg/04/60/08/95/240_F_460089557_xDjwMurexPPW4jOtTKUpGl6xdsU8t6Cq.jpg
+    [p_address] => 11th Cross, Skyline Tech Park Road, Whitefield
+    [p_status] => sold
+)
+
+Array
+(
+    [city] => Greater Noida
+    [p_type] => Bungalow
+    [p_name] => Nova Habitat
+    [price_lakhs] => 110
+    [image_url] => https://t3.ftcdn.net/jpg/02/90/40/50/240_F_290405055_8snlcpxFGfGwQL6DgUZ3bLRWwLX8p19n.jpg
+    [p_address] => Nova Towers, Knowledge Park III
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Lucknow
+    [p_type] => 3 BHK Room
+    [p_name] => Urban Axis
+    [price_lakhs] => 95
+    [image_url] => https://t4.ftcdn.net/jpg/06/98/05/53/240_F_698055332_LISj2HpyldObSVu5Bfab9YnWyO5sNaRY.jpg
+    [p_address] => Urban Axis Residency, Sushant Golf City
+    [p_status] => sold
+)
+
+Array
+(
+    [city] => Hyderabad
+    [p_type] => Penthouse
+    [p_name] => Zenith Square
+    [price_lakhs] => 135
+    [image_url] => https://t4.ftcdn.net/jpg/12/98/56/73/240_F_1298567314_IsBdIZdXp12fTv72q1BrnECwWPuz3cNq.jpg
+    [p_address] => 5 Zenith Plaza, Near Hitech City MMTS
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Pune
+    [p_type] => Farmhouse
+    [p_name] => Vertex One
+    [price_lakhs] => 112
+    [image_url] => https://t3.ftcdn.net/jpg/01/66/70/06/240_F_166700608_f9DbD1Z2KgI1Ehs1glpHKG0salH1qG6M.jpg
+    [p_address] => Vertex One Business Bay, Baner–Pashan Link Road
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Bengaluru
+    [p_type] => Villa
+    [p_name] => Crystal Crest
+    [price_lakhs] => 80
+    [image_url] => https://t4.ftcdn.net/jpg/01/04/18/49/240_F_104184958_ERA8sDkLgGA5gIVrQSZYVAfnEQphM62Q.jpg
+    [p_address] => Crystal Crest Towers, Palm Grove Road, Indiranagar
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Mumbai
+    [p_type] => 2 BHK Room
+    [p_name] => The Ivory Heights
+    [price_lakhs] => 100
+    [image_url] => https://t4.ftcdn.net/jpg/06/98/05/53/240_F_698055350_100b03sG3i13ZCNh1sk0RZZQpL7PhR5B.jpg
+    [p_address] => Plot No. 17, Skyline Avenue, Bandra West
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Hyderabad
+    [p_type] => Villa
+    [p_name] => Elysian Grove
+    [price_lakhs] => 90
+    [image_url] => https://t4.ftcdn.net/jpg/00/72/27/93/240_F_72279343_tJQQGKE3shNa3S2JUKk87BWtv0y3FHBz.jpg
+    [p_address] => Survey No. 42, Elysian Lane, Jubilee Hills
+    [p_status] => sold
+)
+
+Array
+(
+    [city] => Noida
+    [p_type] => 4 BHK Room
+    [p_name] => Sapphire Solace
+    [price_lakhs] => 120
+    [image_url] => https://www.sobhaneopolis.net.in/images/sobha/sobha-neopolis-4-bhk-apartment-floor-plan.webp
+    [p_address] => Tower B, Sapphire Boulevard, Sector 62
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Pune
+    [p_type] => Studio
+    [p_name] => Magnolia Arcadia
+    [price_lakhs] => 130
+    [image_url] => https://t3.ftcdn.net/jpg/05/00/88/98/240_F_500889898_9gsGKbK95pnaVfxOSSIxxFoCAavZFPJv.jpg
+    [p_address] => 8 Arcadia Enclave, Viman Nagar
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Bengaluru
+    [p_type] => Shop
+    [p_name] => Skyline Edge
+    [price_lakhs] => 75
+    [image_url] => https://t4.ftcdn.net/jpg/04/60/08/95/240_F_460089557_xDjwMurexPPW4jOtTKUpGl6xdsU8t6Cq.jpg
+    [p_address] => 11th Cross, Skyline Tech Park Road, Whitefield
+    [p_status] => sold
+)
+
+Array
+(
+    [city] => Greater Noida
+    [p_type] => Bungalow
+    [p_name] => Nova Habitat
+    [price_lakhs] => 110
+    [image_url] => https://t3.ftcdn.net/jpg/02/90/40/50/240_F_290405055_8snlcpxFGfGwQL6DgUZ3bLRWwLX8p19n.jpg
+    [p_address] => Nova Towers, Knowledge Park III
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Lucknow
+    [p_type] => 3 BHK Room
+    [p_name] => Urban Axis
+    [price_lakhs] => 95
+    [image_url] => https://t4.ftcdn.net/jpg/06/98/05/53/240_F_698055332_LISj2HpyldObSVu5Bfab9YnWyO5sNaRY.jpg
+    [p_address] => Urban Axis Residency, Sushant Golf City
+    [p_status] => sold
+)
+
+Array
+(
+    [city] => Hyderabad
+    [p_type] => Penthouse
+    [p_name] => Zenith Square
+    [price_lakhs] => 135
+    [image_url] => https://t4.ftcdn.net/jpg/12/98/56/73/240_F_1298567314_IsBdIZdXp12fTv72q1BrnECwWPuz3cNq.jpg
+    [p_address] => 5 Zenith Plaza, Near Hitech City MMTS
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Pune
+    [p_type] => Farmhouse
+    [p_name] => Vertex One
+    [price_lakhs] => 112
+    [image_url] => https://t3.ftcdn.net/jpg/01/66/70/06/240_F_166700608_f9DbD1Z2KgI1Ehs1glpHKG0salH1qG6M.jpg
+    [p_address] => Vertex One Business Bay, Baner–Pashan Link Road
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Bengaluru
+    [p_type] => Villa
+    [p_name] => Crystal Crest
+    [price_lakhs] => 80
+    [image_url] => https://t4.ftcdn.net/jpg/01/04/18/49/240_F_104184958_ERA8sDkLgGA5gIVrQSZYVAfnEQphM62Q.jpg
+    [p_address] => Crystal Crest Towers, Palm Grove Road, Indiranagar
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Mumbai
+    [p_type] => 2 BHK Room
+    [p_name] => The Ivory Heights
+    [price_lakhs] => 100
+    [image_url] => https://t4.ftcdn.net/jpg/06/98/05/53/240_F_698055350_100b03sG3i13ZCNh1sk0RZZQpL7PhR5B.jpg
+    [p_address] => Plot No. 17, Skyline Avenue, Bandra West
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Hyderabad
+    [p_type] => Villa
+    [p_name] => Elysian Grove
+    [price_lakhs] => 90
+    [image_url] => https://t4.ftcdn.net/jpg/00/72/27/93/240_F_72279343_tJQQGKE3shNa3S2JUKk87BWtv0y3FHBz.jpg
+    [p_address] => Survey No. 42, Elysian Lane, Jubilee Hills
+    [p_status] => sold
+)
+
+Array
+(
+    [city] => Noida
+    [p_type] => 4 BHK Room
+    [p_name] => Sapphire Solace
+    [price_lakhs] => 120
+    [image_url] => https://www.sobhaneopolis.net.in/images/sobha/sobha-neopolis-4-bhk-apartment-floor-plan.webp
+    [p_address] => Tower B, Sapphire Boulevard, Sector 62
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Pune
+    [p_type] => Studio
+    [p_name] => Magnolia Arcadia
+    [price_lakhs] => 130
+    [image_url] => https://t3.ftcdn.net/jpg/05/00/88/98/240_F_500889898_9gsGKbK95pnaVfxOSSIxxFoCAavZFPJv.jpg
+    [p_address] => 8 Arcadia Enclave, Viman Nagar
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Bengaluru
+    [p_type] => Shop
+    [p_name] => Skyline Edge
+    [price_lakhs] => 75
+    [image_url] => https://t4.ftcdn.net/jpg/04/60/08/95/240_F_460089557_xDjwMurexPPW4jOtTKUpGl6xdsU8t6Cq.jpg
+    [p_address] => 11th Cross, Skyline Tech Park Road, Whitefield
+    [p_status] => sold
+)
+
+Array
+(
+    [city] => Greater Noida
+    [p_type] => Bungalow
+    [p_name] => Nova Habitat
+    [price_lakhs] => 110
+    [image_url] => https://t3.ftcdn.net/jpg/02/90/40/50/240_F_290405055_8snlcpxFGfGwQL6DgUZ3bLRWwLX8p19n.jpg
+    [p_address] => Nova Towers, Knowledge Park III
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Lucknow
+    [p_type] => 3 BHK Room
+    [p_name] => Urban Axis
+    [price_lakhs] => 95
+    [image_url] => https://t4.ftcdn.net/jpg/06/98/05/53/240_F_698055332_LISj2HpyldObSVu5Bfab9YnWyO5sNaRY.jpg
+    [p_address] => Urban Axis Residency, Sushant Golf City
+    [p_status] => sold
+)
+
+Array
+(
+    [city] => Hyderabad
+    [p_type] => Penthouse
+    [p_name] => Zenith Square
+    [price_lakhs] => 135
+    [image_url] => https://t4.ftcdn.net/jpg/12/98/56/73/240_F_1298567314_IsBdIZdXp12fTv72q1BrnECwWPuz3cNq.jpg
+    [p_address] => 5 Zenith Plaza, Near Hitech City MMTS
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Pune
+    [p_type] => Farmhouse
+    [p_name] => Vertex One
+    [price_lakhs] => 112
+    [image_url] => https://t3.ftcdn.net/jpg/01/66/70/06/240_F_166700608_f9DbD1Z2KgI1Ehs1glpHKG0salH1qG6M.jpg
+    [p_address] => Vertex One Business Bay, Baner–Pashan Link Road
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Bengaluru
+    [p_type] => Villa
+    [p_name] => Crystal Crest
+    [price_lakhs] => 80
+    [image_url] => https://t4.ftcdn.net/jpg/01/04/18/49/240_F_104184958_ERA8sDkLgGA5gIVrQSZYVAfnEQphM62Q.jpg
+    [p_address] => Crystal Crest Towers, Palm Grove Road, Indiranagar
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Mumbai
+    [p_type] => 2 BHK Room
+    [p_name] => The Ivory Heights
+    [price_lakhs] => 100
+    [image_url] => https://t4.ftcdn.net/jpg/06/98/05/53/240_F_698055350_100b03sG3i13ZCNh1sk0RZZQpL7PhR5B.jpg
+    [p_address] => Plot No. 17, Skyline Avenue, Bandra West
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Hyderabad
+    [p_type] => Villa
+    [p_name] => Elysian Grove
+    [price_lakhs] => 90
+    [image_url] => https://t4.ftcdn.net/jpg/00/72/27/93/240_F_72279343_tJQQGKE3shNa3S2JUKk87BWtv0y3FHBz.jpg
+    [p_address] => Survey No. 42, Elysian Lane, Jubilee Hills
+    [p_status] => sold
+)
+
+Array
+(
+    [city] => Noida
+    [p_type] => 4 BHK Room
+    [p_name] => Sapphire Solace
+    [price_lakhs] => 120
+    [image_url] => https://www.sobhaneopolis.net.in/images/sobha/sobha-neopolis-4-bhk-apartment-floor-plan.webp
+    [p_address] => Tower B, Sapphire Boulevard, Sector 62
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Pune
+    [p_type] => Studio
+    [p_name] => Magnolia Arcadia
+    [price_lakhs] => 130
+    [image_url] => https://t3.ftcdn.net/jpg/05/00/88/98/240_F_500889898_9gsGKbK95pnaVfxOSSIxxFoCAavZFPJv.jpg
+    [p_address] => 8 Arcadia Enclave, Viman Nagar
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Bengaluru
+    [p_type] => Shop
+    [p_name] => Skyline Edge
+    [price_lakhs] => 75
+    [image_url] => https://t4.ftcdn.net/jpg/04/60/08/95/240_F_460089557_xDjwMurexPPW4jOtTKUpGl6xdsU8t6Cq.jpg
+    [p_address] => 11th Cross, Skyline Tech Park Road, Whitefield
+    [p_status] => sold
+)
+
+Array
+(
+    [city] => Greater Noida
+    [p_type] => Bungalow
+    [p_name] => Nova Habitat
+    [price_lakhs] => 110
+    [image_url] => https://t3.ftcdn.net/jpg/02/90/40/50/240_F_290405055_8snlcpxFGfGwQL6DgUZ3bLRWwLX8p19n.jpg
+    [p_address] => Nova Towers, Knowledge Park III
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Lucknow
+    [p_type] => 3 BHK Room
+    [p_name] => Urban Axis
+    [price_lakhs] => 95
+    [image_url] => https://t4.ftcdn.net/jpg/06/98/05/53/240_F_698055332_LISj2HpyldObSVu5Bfab9YnWyO5sNaRY.jpg
+    [p_address] => Urban Axis Residency, Sushant Golf City
+    [p_status] => sold
+)
+
+Array
+(
+    [city] => Hyderabad
+    [p_type] => Penthouse
+    [p_name] => Zenith Square
+    [price_lakhs] => 135
+    [image_url] => https://t4.ftcdn.net/jpg/12/98/56/73/240_F_1298567314_IsBdIZdXp12fTv72q1BrnECwWPuz3cNq.jpg
+    [p_address] => 5 Zenith Plaza, Near Hitech City MMTS
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Pune
+    [p_type] => Farmhouse
+    [p_name] => Vertex One
+    [price_lakhs] => 112
+    [image_url] => https://t3.ftcdn.net/jpg/01/66/70/06/240_F_166700608_f9DbD1Z2KgI1Ehs1glpHKG0salH1qG6M.jpg
+    [p_address] => Vertex One Business Bay, Baner–Pashan Link Road
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Bengaluru
+    [p_type] => Villa
+    [p_name] => Crystal Crest
+    [price_lakhs] => 80
+    [image_url] => https://t4.ftcdn.net/jpg/01/04/18/49/240_F_104184958_ERA8sDkLgGA5gIVrQSZYVAfnEQphM62Q.jpg
+    [p_address] => Crystal Crest Towers, Palm Grove Road, Indiranagar
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Bengaluru
+    [p_type] => Shop
+    [p_name] => Skyline Edge
+    [price_lakhs] => 75
+    [image_url] => https://t4.ftcdn.net/jpg/04/60/08/95/240_F_460089557_xDjwMurexPPW4jOtTKUpGl6xdsU8t6Cq.jpg
+    [p_address] => 11th Cross, Skyline Tech Park Road, Whitefield
+    [p_status] => sold
+)
+
+Array
+(
+    [city] => Mumbai
+    [p_type] => 2 BHK Room
+    [p_name] => The Ivory Heights
+    [price_lakhs] => 100
+    [image_url] => https://t4.ftcdn.net/jpg/06/98/05/53/240_F_698055350_100b03sG3i13ZCNh1sk0RZZQpL7PhR5B.jpg
+    [p_address] => Plot No. 17, Skyline Avenue, Bandra West
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Bengaluru
+    [p_type] => Villa
+    [p_name] => Crystal Crest
+    [price_lakhs] => 80
+    [image_url] => https://t4.ftcdn.net/jpg/01/04/18/49/240_F_104184958_ERA8sDkLgGA5gIVrQSZYVAfnEQphM62Q.jpg
+    [p_address] => Crystal Crest Towers, Palm Grove Road, Indiranagar
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Mumbai
+    [p_type] => 2 BHK Room
+    [p_name] => The Ivory Heights
+    [price_lakhs] => 100
+    [image_url] => https://t4.ftcdn.net/jpg/06/98/05/53/240_F_698055350_100b03sG3i13ZCNh1sk0RZZQpL7PhR5B.jpg
+    [p_address] => Plot No. 17, Skyline Avenue, Bandra West
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Hyderabad
+    [p_type] => Villa
+    [p_name] => Elysian Grove
+    [price_lakhs] => 90
+    [image_url] => https://t4.ftcdn.net/jpg/00/72/27/93/240_F_72279343_tJQQGKE3shNa3S2JUKk87BWtv0y3FHBz.jpg
+    [p_address] => Survey No. 42, Elysian Lane, Jubilee Hills
+    [p_status] => sold
+)
+
+Array
+(
+    [city] => Noida
+    [p_type] => 4 BHK Room
+    [p_name] => Sapphire Solace
+    [price_lakhs] => 120
+    [image_url] => https://www.sobhaneopolis.net.in/images/sobha/sobha-neopolis-4-bhk-apartment-floor-plan.webp
+    [p_address] => Tower B, Sapphire Boulevard, Sector 62
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Pune
+    [p_type] => Studio
+    [p_name] => Magnolia Arcadia
+    [price_lakhs] => 130
+    [image_url] => https://t3.ftcdn.net/jpg/05/00/88/98/240_F_500889898_9gsGKbK95pnaVfxOSSIxxFoCAavZFPJv.jpg
+    [p_address] => 8 Arcadia Enclave, Viman Nagar
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Bengaluru
+    [p_type] => Shop
+    [p_name] => Skyline Edge
+    [price_lakhs] => 75
+    [image_url] => https://t4.ftcdn.net/jpg/04/60/08/95/240_F_460089557_xDjwMurexPPW4jOtTKUpGl6xdsU8t6Cq.jpg
+    [p_address] => 11th Cross, Skyline Tech Park Road, Whitefield
+    [p_status] => sold
+)
+
+Array
+(
+    [city] => Greater Noida
+    [p_type] => Bungalow
+    [p_name] => Nova Habitat
+    [price_lakhs] => 110
+    [image_url] => https://t3.ftcdn.net/jpg/02/90/40/50/240_F_290405055_8snlcpxFGfGwQL6DgUZ3bLRWwLX8p19n.jpg
+    [p_address] => Nova Towers, Knowledge Park III
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Lucknow
+    [p_type] => 3 BHK Room
+    [p_name] => Urban Axis
+    [price_lakhs] => 95
+    [image_url] => https://t4.ftcdn.net/jpg/06/98/05/53/240_F_698055332_LISj2HpyldObSVu5Bfab9YnWyO5sNaRY.jpg
+    [p_address] => Urban Axis Residency, Sushant Golf City
+    [p_status] => sold
+)
+
+Array
+(
+    [city] => Hyderabad
+    [p_type] => Penthouse
+    [p_name] => Zenith Square
+    [price_lakhs] => 135
+    [image_url] => https://t4.ftcdn.net/jpg/12/98/56/73/240_F_1298567314_IsBdIZdXp12fTv72q1BrnECwWPuz3cNq.jpg
+    [p_address] => 5 Zenith Plaza, Near Hitech City MMTS
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Pune
+    [p_type] => Farmhouse
+    [p_name] => Vertex One
+    [price_lakhs] => 112
+    [image_url] => https://t3.ftcdn.net/jpg/01/66/70/06/240_F_166700608_f9DbD1Z2KgI1Ehs1glpHKG0salH1qG6M.jpg
+    [p_address] => Vertex One Business Bay, Baner–Pashan Link Road
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Greater Noida
+    [p_type] => Bungalow
+    [p_name] => Nova Habitat
+    [price_lakhs] => 110
+    [image_url] => https://t3.ftcdn.net/jpg/02/90/40/50/240_F_290405055_8snlcpxFGfGwQL6DgUZ3bLRWwLX8p19n.jpg
+    [p_address] => Nova Towers, Knowledge Park III
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Bengaluru
+    [p_type] => Villa
+    [p_name] => Crystal Crest
+    [price_lakhs] => 80
+    [image_url] => https://t4.ftcdn.net/jpg/01/04/18/49/240_F_104184958_ERA8sDkLgGA5gIVrQSZYVAfnEQphM62Q.jpg
+    [p_address] => Crystal Crest Towers, Palm Grove Road, Indiranagar
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Mumbai
+    [p_type] => 2 BHK Room
+    [p_name] => The Ivory Heights
+    [price_lakhs] => 100
+    [image_url] => https://t4.ftcdn.net/jpg/06/98/05/53/240_F_698055350_100b03sG3i13ZCNh1sk0RZZQpL7PhR5B.jpg
+    [p_address] => Plot No. 17, Skyline Avenue, Bandra West
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Hyderabad
+    [p_type] => Villa
+    [p_name] => Elysian Grove
+    [price_lakhs] => 90
+    [image_url] => https://t4.ftcdn.net/jpg/00/72/27/93/240_F_72279343_tJQQGKE3shNa3S2JUKk87BWtv0y3FHBz.jpg
+    [p_address] => Survey No. 42, Elysian Lane, Jubilee Hills
+    [p_status] => sold
+)
+
+Array
+(
+    [city] => Noida
+    [p_type] => 4 BHK Room
+    [p_name] => Sapphire Solace
+    [price_lakhs] => 120
+    [image_url] => https://www.sobhaneopolis.net.in/images/sobha/sobha-neopolis-4-bhk-apartment-floor-plan.webp
+    [p_address] => Tower B, Sapphire Boulevard, Sector 62
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Pune
+    [p_type] => Studio
+    [p_name] => Magnolia Arcadia
+    [price_lakhs] => 130
+    [image_url] => https://t3.ftcdn.net/jpg/05/00/88/98/240_F_500889898_9gsGKbK95pnaVfxOSSIxxFoCAavZFPJv.jpg
+    [p_address] => 8 Arcadia Enclave, Viman Nagar
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Bengaluru
+    [p_type] => Shop
+    [p_name] => Skyline Edge
+    [price_lakhs] => 75
+    [image_url] => https://t4.ftcdn.net/jpg/04/60/08/95/240_F_460089557_xDjwMurexPPW4jOtTKUpGl6xdsU8t6Cq.jpg
+    [p_address] => 11th Cross, Skyline Tech Park Road, Whitefield
+    [p_status] => sold
+)
+
+Array
+(
+    [city] => Greater Noida
+    [p_type] => Bungalow
+    [p_name] => Nova Habitat
+    [price_lakhs] => 110
+    [image_url] => https://t3.ftcdn.net/jpg/02/90/40/50/240_F_290405055_8snlcpxFGfGwQL6DgUZ3bLRWwLX8p19n.jpg
+    [p_address] => Nova Towers, Knowledge Park III
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Lucknow
+    [p_type] => 3 BHK Room
+    [p_name] => Urban Axis
+    [price_lakhs] => 95
+    [image_url] => https://t4.ftcdn.net/jpg/06/98/05/53/240_F_698055332_LISj2HpyldObSVu5Bfab9YnWyO5sNaRY.jpg
+    [p_address] => Urban Axis Residency, Sushant Golf City
+    [p_status] => sold
+)
+
+Array
+(
+    [city] => Hyderabad
+    [p_type] => Penthouse
+    [p_name] => Zenith Square
+    [price_lakhs] => 135
+    [image_url] => https://t4.ftcdn.net/jpg/12/98/56/73/240_F_1298567314_IsBdIZdXp12fTv72q1BrnECwWPuz3cNq.jpg
+    [p_address] => 5 Zenith Plaza, Near Hitech City MMTS
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Pune
+    [p_type] => Farmhouse
+    [p_name] => Vertex One
+    [price_lakhs] => 112
+    [image_url] => https://t3.ftcdn.net/jpg/01/66/70/06/240_F_166700608_f9DbD1Z2KgI1Ehs1glpHKG0salH1qG6M.jpg
+    [p_address] => Vertex One Business Bay, Baner–Pashan Link Road
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Bengaluru
+    [p_type] => Villa
+    [p_name] => Crystal Crest
+    [price_lakhs] => 80
+    [image_url] => https://t4.ftcdn.net/jpg/01/04/18/49/240_F_104184958_ERA8sDkLgGA5gIVrQSZYVAfnEQphM62Q.jpg
+    [p_address] => Crystal Crest Towers, Palm Grove Road, Indiranagar
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Mumbai
+    [p_type] => 2 BHK Room
+    [p_name] => The Ivory Heights
+    [price_lakhs] => 100
+    [image_url] => https://t4.ftcdn.net/jpg/06/98/05/53/240_F_698055350_100b03sG3i13ZCNh1sk0RZZQpL7PhR5B.jpg
+    [p_address] => Plot No. 17, Skyline Avenue, Bandra West
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Hyderabad
+    [p_type] => Villa
+    [p_name] => Elysian Grove
+    [price_lakhs] => 90
+    [image_url] => https://t4.ftcdn.net/jpg/00/72/27/93/240_F_72279343_tJQQGKE3shNa3S2JUKk87BWtv0y3FHBz.jpg
+    [p_address] => Survey No. 42, Elysian Lane, Jubilee Hills
+    [p_status] => sold
+)
+
+Array
+(
+    [city] => Noida
+    [p_type] => 4 BHK Room
+    [p_name] => Sapphire Solace
+    [price_lakhs] => 120
+    [image_url] => https://www.sobhaneopolis.net.in/images/sobha/sobha-neopolis-4-bhk-apartment-floor-plan.webp
+    [p_address] => Tower B, Sapphire Boulevard, Sector 62
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Pune
+    [p_type] => Studio
+    [p_name] => Magnolia Arcadia
+    [price_lakhs] => 130
+    [image_url] => https://t3.ftcdn.net/jpg/05/00/88/98/240_F_500889898_9gsGKbK95pnaVfxOSSIxxFoCAavZFPJv.jpg
+    [p_address] => 8 Arcadia Enclave, Viman Nagar
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Bengaluru
+    [p_type] => Shop
+    [p_name] => Skyline Edge
+    [price_lakhs] => 75
+    [image_url] => https://t4.ftcdn.net/jpg/04/60/08/95/240_F_460089557_xDjwMurexPPW4jOtTKUpGl6xdsU8t6Cq.jpg
+    [p_address] => 11th Cross, Skyline Tech Park Road, Whitefield
+    [p_status] => sold
+)
+
+Array
+(
+    [city] => Greater Noida
+    [p_type] => Bungalow
+    [p_name] => Nova Habitat
+    [price_lakhs] => 110
+    [image_url] => https://t3.ftcdn.net/jpg/02/90/40/50/240_F_290405055_8snlcpxFGfGwQL6DgUZ3bLRWwLX8p19n.jpg
+    [p_address] => Nova Towers, Knowledge Park III
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Lucknow
+    [p_type] => 3 BHK Room
+    [p_name] => Urban Axis
+    [price_lakhs] => 95
+    [image_url] => https://t4.ftcdn.net/jpg/06/98/05/53/240_F_698055332_LISj2HpyldObSVu5Bfab9YnWyO5sNaRY.jpg
+    [p_address] => Urban Axis Residency, Sushant Golf City
+    [p_status] => sold
+)
+
+Array
+(
+    [city] => Hyderabad
+    [p_type] => Penthouse
+    [p_name] => Zenith Square
+    [price_lakhs] => 135
+    [image_url] => https://t4.ftcdn.net/jpg/12/98/56/73/240_F_1298567314_IsBdIZdXp12fTv72q1BrnECwWPuz3cNq.jpg
+    [p_address] => 5 Zenith Plaza, Near Hitech City MMTS
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Pune
+    [p_type] => Farmhouse
+    [p_name] => Vertex One
+    [price_lakhs] => 112
+    [image_url] => https://t3.ftcdn.net/jpg/01/66/70/06/240_F_166700608_f9DbD1Z2KgI1Ehs1glpHKG0salH1qG6M.jpg
+    [p_address] => Vertex One Business Bay, Baner–Pashan Link Road
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Bengaluru
+    [p_type] => Villa
+    [p_name] => Crystal Crest
+    [price_lakhs] => 80
+    [image_url] => https://t4.ftcdn.net/jpg/01/04/18/49/240_F_104184958_ERA8sDkLgGA5gIVrQSZYVAfnEQphM62Q.jpg
+    [p_address] => Crystal Crest Towers, Palm Grove Road, Indiranagar
+    [p_status] => available
+)
+
+Array
+(
+    [city] => Bengaluru
+    [p_type] => Shop
+    [p_name] => Skyline Edge
+    [price_lakhs] => 75
+    [image_url] => https://t4.ftcdn.net/jpg/04/60/08/95/240_F_460089557_xDjwMurexPPW4jOtTKUpGl6xdsU8t6Cq.jpg
+    [p_address] => 11th Cross, Skyline Tech Park Road, Whitefield
+    [p_status] => sold
+)
+
+Array
+(
+    [city] => Bengaluru
+    [p_type] => Villa
+    [p_name] => Crystal Crest
+    [price_lakhs] => 80
+    [image_url] => https://t4.ftcdn.net/jpg/01/04/18/49/240_F_104184958_ERA8sDkLgGA5gIVrQSZYVAfnEQphM62Q.jpg
+    [p_address] => Crystal Crest Towers, Palm Grove Road, Indiranagar
+    [p_status] => available
+)
+
