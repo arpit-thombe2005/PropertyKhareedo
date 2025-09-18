@@ -578,78 +578,97 @@ document.addEventListener("DOMContentLoaded", () => {
     const faqs = [
         {
             question: "What is PropertyKhareedo?",
+            keywords: ["what", "is", "propertykhareedo"],
             answer: "PropertyKhareedo is an online platform for buying, selling, and renting properties. We connect buyers and sellers with verified listings and professional services."
         },
         {
             question: "How can I list my property?",
+            keywords: ["how", "list", "my", "property"],
             answer: "To list your property, you need to create an account and fill out the property details form with photos, descriptions, and pricing information. Our team will then review and publish it."
         },
         {
             question: "Do you have properties in Mumbai?",
+            keywords: ["do", "have", "properties", "mumbai"],
             answer: "Yes, we have a wide range of properties available in Mumbai and its surrounding areas. You can use our search feature to filter properties by location."
         },
         {
             question: "Can I schedule a visit?",
+            keywords: ["can", "schedule", "visit"],
             answer: "Yes, you can schedule a visit to any property listed on our site. Simply click the 'Schedule Visit' button on the property page and select a convenient date and time."
         },
         {
             question: "Do you provide EMI or loan options?",
+            keywords: ["do", "provide", "emi", "loan", "options"],
             answer: "We have partnerships with several leading banks and financial institutions to help you with EMI and loan options. You can use our EMI calculator for an estimate."
         },
         {
             question: "Are there any current offers?",
+            keywords: ["are", "there", "any", "current", "offers"],
             answer: "Our offers change regularly. Please check the 'Offers' section on our website for the latest deals and discounts on properties and services."
         },
         {
             question: "What documents are required to buy a property?",
+            keywords: ["what", "documents", "required", "buy", "property"],
             answer: "The required documents typically include identity proof (Aadhar Card, PAN Card), address proof, and legal documents related to the property. A detailed list is provided during the purchase process."
         },
         {
             question: "How do I verify property ownership?",
+            keywords: ["how", "do", "verify", "property", "ownership"],
             answer: "All properties on our platform are verified. Our legal team conducts a thorough check of the ownership documents to ensure a secure transaction."
         },
         {
             question: "Do you help with legal paperwork?",
+            keywords: ["do", "help", "legal", "paperwork"],
             answer: "Yes, our team of legal experts can assist you with all the necessary legal paperwork and documentation to ensure a smooth and hassle-free transaction."
         },
         {
             question: "Is property registration included?",
+            keywords: ["is", "property", "registration", "included"],
             answer: "Property registration is a separate process handled by legal authorities. While we assist you with the paperwork, the registration fee and process are your responsibility."
         },
         {
             question: "Can I filter properties by size and price?",
+            keywords: ["can", "filter", "properties", "size", "price"],
             answer: "Yes, our advanced search feature allows you to filter properties by various criteria including size (in sq ft), price range, number of bedrooms, and more."
         },
         {
             question: "Do you show photos and videos of the property?",
+            keywords: ["do", "show", "photos", "videos", "property"],
             answer: "Yes, most of our property listings include high-quality photos and sometimes virtual tours or videos to give you a complete view of the property."
         },
         {
             question: "How do I contact customer support?",
+            keywords: ["how", "contact", "customer", "support"],
             answer: "You can contact our customer support team via email at support@propertykhareedo.com or through our contact form. Our team is available 24/7."
         },
         {
             question: "Do you have an app version?",
+            keywords: ["do", "app", "version"],
             answer: "We are currently working on a mobile app version for both Android and iOS. Stay tuned for updates on its release!"
         },
         {
-            question: "Is my personal information secure?",
+            question: "Is my personal information secure/safe?",
+            keywords: ["is", "personal", "information", "secure", "safe"],
             answer: "Yes, your personal information is completely secure. We use advanced encryption and security protocols to protect all your data."
         },
         {
             question: "How do I rent a flat?",
+            keywords: ["how", "rent", "flat"],
             answer: "To rent a flat, you can use our 'Rentals' section and filter properties based on your preferences. Once you find a suitable flat, you can contact the owner directly through the platform."
         },
         {
             question: "Do you provide fully furnished rentals?",
+            keywords: ["do", "provide", "fully", "furnished", "rentals"],
             answer: "Yes, we have a variety of fully furnished and semi-furnished rental properties available on our platform. You can use our filters to search for them."
         },
         {
             question: "Can I get short term rental options?",
+            keywords: ["can", "short", "term", "rental", "options"],
             answer: "We offer both short-term and long-term rental options. You can specify your rental period in the search filters to find suitable properties."
         },
         {
             question: "How do I contact the property owner?",
+            keywords: ["how", "do", "contact", "property", "owner"],
             answer: "You can contact the property owner directly by clicking on the 'Contact Owner' button on the property listing page. Their contact details will be shared with you."
         }
     ];
@@ -667,14 +686,15 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     function getBotResponse(userMessage) {
-        const lowerCaseMessage = userMessage.toLowerCase();
-        for (const faq of faqs) {
-            if (lowerCaseMessage.includes(faq.question.toLowerCase())) {
-                return faq.answer;
-            }
+    const lowerCaseMessage = userMessage.toLowerCase();
+    for (const faq of faqs) {
+        // Check if any keyword from the FAQ's list is present in the user's message
+        if (faq.keywords.some(keyword => lowerCaseMessage.includes(keyword))) {
+            return faq.answer;
         }
-        return "I'm sorry, I don't have an answer to that question. Please try rephrasing or ask another question from the list.";
     }
+    return "I'm sorry, I don't have an answer to that question. Please try rephrasing or ask another question from the list.";
+}
 
     sendBtn.addEventListener("click", () => {
         const userMessage = userInput.value.trim();
@@ -700,7 +720,7 @@ document.addEventListener("DOMContentLoaded", () => {
         const input = userInput.value.toLowerCase();
         autocompleteSuggestions.innerHTML = "";
         if (input.length > 0) {
-            const matches = faqs.filter(faq => faq.question.toLowerCase().startsWith(input));
+            const matches = faqs.filter(faq => faq.keywords.some(keyword => keyword.includes(input)));
             matches.forEach(faq => {
                 const suggestionDiv = document.createElement("div");
                 suggestionDiv.classList.add("autocomplete-suggestion");
