@@ -4,10 +4,11 @@
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
 
-$serverName = "propertykhareedo.database.windows.net";    // Your Azure SQL Server name
-$database = "PropertyKhareedo";                          // Your Azure SQL Database name
-$aadUsername = "pushkar.waykole@vit.edu.in";  // Your Azure AD User Principal Name (UPN)
-$aadPassword = "Pushu@1702";                  // Your Azure AD password
+$serverName = "propertykhareedobackup.database.windows.net";    // Your Azure SQL Server name
+$database = "PropertyKhareedoBackup";                          // Your Azure SQL Database name
+$aadUsername = "basil.shaikh@vit.edu.in";  // Your Azure AD User Principal Name (UPN)
+$aadPassword = "Act786786";                  // Your Azure AD password
+
 
 $connectionInfo = [
     "Database" => $database,
