@@ -4,12 +4,12 @@
   top: 0; left: 0;
   width: 100vw;
   height: 100vh;
-  background: rgba(34, 34, 34, 0.15);
+  background: var(--bg-overlay);
   backdrop-filter: blur(6px);
   display: flex;
   align-items: center;
   justify-content: center;
-  z-index: 9999;
+  z-index: 100000;
   transition: opacity 0.3s ease;
   visibility: visible;
   opacity: 1;
@@ -25,18 +25,25 @@
 
 /* Modal content container */
 .modal-content {
-  background: #fff;
+  background: var(--bg-modal);
+  color: var(--text-primary);
   padding: 40px;
   border-radius: 15px;
-  box-shadow: 0 15px 35px rgba(0,0,0,0.1);
+  box-shadow: 0 15px 35px var(--shadow-light);
   width: 100%;
   max-width: 500px;
   animation: containerSlideUp 0.8s ease-out 0.2s both;
   overflow-y: auto;
   max-height: 90vh;
+  /* Hide scrollbar for Chrome, Safari and Opera */
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* IE and Edge */
   box-sizing: border-box;
-  font-family: 'Arial', sans-serif;
-  position: relative;
+}
+
+/* Hide scrollbar for Webkit browsers (Chrome, Safari, Opera) */
+.modal-content::-webkit-scrollbar {
+  display: none;
 }
 
 @keyframes containerSlideUp {
@@ -51,7 +58,7 @@
   font-size: 28px;
   font-weight: 600;
   cursor: pointer;
-  color: #333;
+  color: var(--text-primary);
   user-select: none;
   transition: color 0.3s ease;
   background: none;
@@ -59,13 +66,13 @@
   line-height: 1;
   padding: 0;
 }
-.close-btn:hover { color: #667eea; }
+.close-btn:hover { color: var(--accent-primary); }
 
 /* Headings inside modal forms */
 .modal-content h2 {
   text-align: center;
   margin-bottom: 30px;
-  color: #333;
+  color: var(--text-primary);
   font-size: 28px;
   font-weight: 600;
 }
@@ -95,7 +102,7 @@
 label {
   display: block;
   margin-bottom: 8px;
-  color: #555;
+  color: var(--text-secondary);
   font-weight: 500;
   font-size: 14px;
   line-height: 1.4;
@@ -108,11 +115,12 @@ input[type="password"],
 select {
   width: 100%;
   padding: 12px 15px;
-  border: 2px solid #e1e5e9;
+  border: 2px solid var(--border-primary);
   border-radius: 8px;
   font-size: 16px;
   transition: all 0.3s ease;
-  background: #f8f9fa;
+  background: var(--bg-primary);
+  color: var(--text-primary);
   box-sizing: border-box;
   margin: 0;
 }
@@ -121,9 +129,9 @@ input[type="email"]:focus,
 input[type="password"]:focus,
 select:focus {
   outline: none;
-  border-color: #667eea;
-  background: #fff;
-  box-shadow: 0 0 0 3px rgba(102,126,234,0.1);
+  border-color: var(--border-focus);
+  background: var(--bg-secondary);
+  box-shadow: 0 0 0 3px var(--shadow-light);
 }
 
 .name-row {
@@ -156,13 +164,13 @@ select:focus {
 .password-requirements {
   margin-top: 10px;
   padding: 15px;
-  background: #f8f9fa;
+  background: var(--bg-primary);
   border-radius: 8px;
-  border-left: 4px solid #e1e5e9;
+  border-left: 4px solid var(--border-primary);
 }
 .password-requirements small {
   font-weight: 600;
-  color: #666;
+  color: var(--text-secondary);
   display: block;
   margin-bottom: 8px;
 }
@@ -174,7 +182,7 @@ select:focus {
 .password-requirements li {
   padding: 3px 0 3px 20px;
   font-size: 13px;
-  color: #666;
+  color: var(--text-tertiary);
   position: relative;
 }
 .password-requirements li:before {
@@ -196,7 +204,7 @@ select:focus {
 .submit-btn {
   width: 100%;
   padding: 15px;
-  background: linear-gradient(135deg, #8e0e00 0%, #1f1c18 100%);
+  background: var(--accent-gradient);
   color: #fff;
   border: none;
   border-radius: 8px;
@@ -208,7 +216,7 @@ select:focus {
 }
 .submit-btn:hover {
   transform: translateY(-2px);
-  box-shadow: 0 8px 25px rgba(102,126,234,0.3);
+  box-shadow: 0 8px 25px var(--shadow-medium);
 }
 .submit-btn:active { transform: translateY(0); }
 
@@ -221,7 +229,7 @@ input:valid { border-color: #28a745; }
 
 /* Unified plain link style */
 .no-style {
-  color: black;
+  color: var(--accent-primary);
   padding: 0;
   text-decoration: none;
   cursor: pointer;
@@ -237,6 +245,20 @@ input[type="text"]#altPhone {
 
 /* Select style improvements */
 select { cursor: pointer; }
+
+/* Placeholder color respects theme */
+input::placeholder,
+select::placeholder {
+  color: var(--text-muted);
+  opacity: 1;
+}
+
+/* Remove double-card look: neutralize inner .container when used inside modals */
+.modal .container {
+  background: transparent !important;
+  box-shadow: none !important;
+  padding: 0 !important;
+}
 
 /* Responsive tweaks */
 @media (max-width: 768px) {

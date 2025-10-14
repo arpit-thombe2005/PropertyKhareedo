@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Landing Page</title>
     <link rel="stylesheet" href="landingpage.css">
+    <link rel="stylesheet" href="theme.css">
 </head>
 <body>
     <div id="transition-overlay" class="transition-overlay">
@@ -33,6 +34,7 @@
         </div>
     </div>
 
+    <script src="theme.js"></script>
     <script src="script.js"></script>
 </body>
 </html>

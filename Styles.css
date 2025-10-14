@@ -6,7 +6,7 @@
 
 body {
   font-family: 'Arial', sans-serif;
-  background: linear-gradient(135deg, #8e0e00 0%, #1f1c18 100%);
+  background: var(--accent-gradient);
   min-height: 100vh;
   display: flex;
   align-items: center;
@@ -21,10 +21,10 @@ body {
 }
 
 .container {
-  background: white;
+  background: var(--bg-card);
   padding: 40px;
   border-radius: 15px;
-  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 15px 35px var(--shadow-light);
   width: 100%;
   max-width: 500px;
   animation: containerSlideUp 0.8s ease-out 0.2s both;
@@ -38,7 +38,7 @@ body {
 h2 {
   text-align: center;
   margin-bottom: 30px;
-  color: #333;
+  color: var(--text-primary);
   font-size: 28px;
   font-weight: 600;
 }
@@ -53,7 +53,7 @@ h2 {
 label {
   display: block;
   margin-bottom: 8px;
-  color: #555;
+  color: var(--text-secondary);
   font-weight: 500;
   font-size: 14px;
   line-height: 1.4;
@@ -65,19 +65,20 @@ input[type="password"],
 select {
   width: 100%;
   padding: 12px 15px;
-  border: 2px solid #e1e5e9;
+  border: 2px solid var(--border-primary);
   border-radius: 8px;
   font-size: 16px;
-  background: #f8f9fa;
+  background: var(--bg-primary);
+  color: var(--text-primary);
   transition: all 0.3s ease;
 }
 
 input:focus,
 select:focus {
   outline: none;
-  border-color: #8e0e00;
-  background: white;
-  box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+  border-color: var(--border-focus);
+  background: var(--bg-secondary);
+  box-shadow: 0 0 0 3px var(--shadow-light);
 }
 
 .name-row {
@@ -104,14 +105,14 @@ select:focus {
 .password-requirements {
   margin-top: 10px;
   padding: 15px;
-  background: #f8f9fa;
+  background: var(--bg-primary);
   border-radius: 8px;
-  border-left: 4px solid #e1e5e9;
+  border-left: 4px solid var(--border-primary);
 }
 
 .password-requirements small {
   font-weight: 600;
-  color: #666;
+  color: var(--text-secondary);
   display: block;
   margin-bottom: 8px;
 }
@@ -125,7 +126,7 @@ select:focus {
 .password-requirements li {
   padding: 3px 0 3px 20px;
   font-size: 13px;
-  color: #666;
+  color: var(--text-tertiary);
   position: relative;
 }
 
@@ -161,8 +162,8 @@ select:focus {
 .submit-btn {
   width: 100%;
   padding: 15px;
-  background: linear-gradient(135deg, #8e0e00 0%, #1f1c18 100%);
-  color: white;
+  background: var(--accent-gradient);
+  color: var(--text-light);
   border: none;
   border-radius: 8px;
   font-size: 16px;
@@ -174,11 +175,11 @@ select:focus {
 
 .submit-btn:hover {
   transform: translateY(-2px);
-  box-shadow: 0 8px 25px rgba(102, 126, 234, 0.3);
+  box-shadow: 0 8px 25px var(--shadow-medium);
 }
 
-input:invalid { border-color: #dc3545; }
-input:valid { border-color: #28a745; }
+input:invalid { border-color: var(--error); }
+input:valid { border-color: var(--success); }
 
 .form-group:nth-child(1) { animation-delay: 0.1s; }
 .form-group:nth-child(2) { animation-delay: 0.2s; }
