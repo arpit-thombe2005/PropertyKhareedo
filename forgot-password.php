@@ -54,7 +54,7 @@ try {
     }
 
     // ✅ Create password reset link
-    $resetUrl = 'http://localhost/PropertyKhareedo-master/homepage.html?token=' . urlencode($token);
+    $resetUrl = 'https://propertykhareeedo-gxbndnazhfbsffe3.canadacentral-01.azurewebsites.net/homepage.html?token=' . urlencode($token);
 
     // ✅ PHPMailer setup
     $mail = new PHPMailer(true);
