@@ -55,6 +55,11 @@ class ThemeManager {
             return;
         }
 
+        // Respect pages that disable the theme toggle
+        if (document.body && document.body.hasAttribute('data-disable-theme-toggle')) {
+            return;
+        }
+
         const toggle = document.createElement('button');
         toggle.className = 'theme-toggle';
         toggle.setAttribute('aria-label', 'Toggle theme');

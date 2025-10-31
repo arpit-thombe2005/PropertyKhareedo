@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="landingpage.css">
     <link rel="stylesheet" href="theme.css">
 </head>
-<body>
+<body data-disable-theme-toggle="true">
     <div id="transition-overlay" class="transition-overlay">
         <div class="transition-loader"></div>
     </div>
