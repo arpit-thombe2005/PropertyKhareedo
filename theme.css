@@ -2,6 +2,7 @@
 
 :root {
   /* Light Theme (Default) */
+  color-scheme: light;
   --bg-primary: #f8f9fa;
   --bg-secondary: #ffffff;
   --bg-tertiary: #e9ecef;
@@ -36,6 +37,7 @@
 
 [data-theme="dark"] {
   /* Dark Theme */
+  color-scheme: dark;
   --bg-primary: #1a1a1a;
   --bg-secondary: #2d2d2d;
   --bg-tertiary: #3a3a3a;
@@ -88,16 +90,45 @@
   height: 50px;
 }
 
+.header .theme-toggle {
+  position: static;
+  top: auto;
+  right: auto;
+  width: 44px;
+  height: 44px;
+  padding: 10px;
+  margin: 0;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  box-shadow: none;
+  backdrop-filter: blur(6px);
+}
+
+[data-theme="light"] .header .theme-toggle {
+  background: rgba(26, 24, 24, 0.08);
+  border: 1px solid rgba(26, 24, 24, 0.2);
+}
+
 .theme-toggle:hover {
   transform: scale(1.1);
   box-shadow: 0 6px 20px var(--shadow-medium);
   border-color: var(--accent-primary);
 }
 
+.header .theme-toggle:hover {
+  transform: translateY(-1px);
+  box-shadow: none;
+}
+
 .theme-toggle-icon {
   font-size: 20px;
   color: var(--text-primary);
   transition: all 0.3s ease;
+}
+
+.header .theme-toggle-icon {
+  color: var(--text-light);
 }
 
 .theme-toggle:hover .theme-toggle-icon {
@@ -260,4 +291,9 @@ input:focus, select:focus, .search-input:focus {
     font-size: 16px;
   }
 }
+
+.header-actions .dropdown {
+  margin: 0;
+}
+
 

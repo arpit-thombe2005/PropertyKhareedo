@@ -1,0 +1,37 @@
+PropertyKhareedo – Why It Stands Out
+===================================
+
+1. Guided Property Discovery
+   • Dynamic search cards highlight availability, pricing, and property details in one glance.
+   • Sold listings switch to a “Notify Me” call-to-action, so interested buyers stay engaged instead of hitting dead ends.
+
+2. Clean, Trustworthy Inventory Data
+   • Backend APIs sanitize inputs, validate price ranges, and normalise property status before sending JSON to the frontend.
+   • Debug logging pipelines capture query issues, keeping the catalogue reliable even when upstream data is messy.
+
+3. Built-in Financial Planning
+   • Interactive EMI calculator visualises principal vs. interest with real-time pie charts.
+   • Rent planner models annual escalation, helping renters budget realistically.
+   • Premium calculators are blurred until login, encouraging sign-ups while rewarding members.
+
+4. Always-On Guided Support
+   • Every page embeds an FAQ-driven chatbot with autocomplete suggestions and instant answers to common buyer questions.
+   • Conversational guidance reduces friction for first-time investors and keeps prospects on the site longer.
+
+5. End-to-End Customer Care
+   • Password recovery uses expiring tokens and PHPMailer to deliver secure reset links.
+   • Consistent modal forms and profile panels let registered users manage details without leaving the flow.
+
+Reasons People Choose PropertyKhareedo
+-------------------------------------
+
+• Unified journey: discovery, financial planning, support, and account management live under one login.
+• Proactive engagement: waitlist notifications, calculators, and chat guidance keep buyers active until they close.
+• Trust and convenience: verified data handling, responsive UI, and 24/7 virtual assistance build confidence in every interaction.
+
+Recommended Next Steps
+-----------------------
+
+• Conduct buyer usability sessions focused on the chatbot prompts and EMI/rent planner gating.
+• Craft marketing copy that spotlights the notify-waitlist flow, financial planning tools, and concierge-style support as differentiators.
+

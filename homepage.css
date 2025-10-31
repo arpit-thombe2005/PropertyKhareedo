@@ -30,6 +30,15 @@ body {
   align-items: center;
   max-width: 1200px;
   margin: 0 auto;
+  gap: 1.5rem;
+}
+.header-actions {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+.header-actions .dropdown {
+  margin: 0;
 }
 .logo {
   display: flex;
@@ -263,6 +272,280 @@ body {
   margin: 1rem 0;
 }
 .offer-btn { padding: 10px 25px; border-radius: 20px; font-size: 1rem; margin-top: 1rem; }
+
+.winter-offers {
+  background: linear-gradient(135deg, rgba(9, 24, 44, 0.95) 0%, rgba(17, 30, 47, 0.95) 50%, rgba(29, 47, 66, 0.95) 100%);
+  border-radius: 24px;
+  border: 1px solid rgba(255,255,255,0.08);
+  padding: 3.5rem 3rem;
+  position: relative;
+  overflow: hidden;
+  color: #f4f7ff;
+  box-shadow: 0 20px 45px rgba(5, 18, 35, 0.45);
+}
+.winter-offers::before,
+.winter-offers::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+}
+.winter-offers::before {
+  background: radial-gradient(circle at 20% 15%, rgba(173, 216, 255, 0.18), transparent 55%),
+              radial-gradient(circle at 80% 10%, rgba(255, 255, 255, 0.12), transparent 45%),
+              radial-gradient(circle at 50% 90%, rgba(88, 130, 193, 0.2), transparent 60%);
+  opacity: 0.9;
+  z-index: 0;
+}
+.winter-offers::after {
+  background-image: radial-gradient(rgba(255, 255, 255, 0.25) 1px, transparent 1px);
+  background-size: 120px 120px;
+  opacity: 0.28;
+  z-index: 0;
+  transform: translateY(-5%);
+}
+.winter-offers > * {
+  position: relative;
+  z-index: 2;
+}
+.winter-offers .snow-layer {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  overflow: hidden;
+  z-index: 1;
+}
+.snowflake {
+  position: absolute;
+  top: -10%;
+  background: radial-gradient(circle, rgba(255, 255, 255, 0.9) 0%, rgba(255, 255, 255, 0) 70%);
+  border-radius: 50%;
+  animation-name: snowFall;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  opacity: 0.6;
+}
+@keyframes snowFall {
+  0% {
+    transform: translateY(0) translateX(0);
+    opacity: 0;
+  }
+  10% {
+    opacity: 0.8;
+  }
+  100% {
+    transform: translateY(120vh) translateX(10px);
+    opacity: 0;
+  }
+}
+.winter-banner {
+  text-align: center;
+  max-width: 720px;
+  margin: 0 auto 2.5rem;
+}
+.winter-banner h2 {
+  font-size: 2.75rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  color: #f8fbff;
+}
+.winter-banner p {
+  color: rgba(235, 244, 255, 0.82);
+  font-size: 1.05rem;
+  line-height: 1.8;
+}
+.winter-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.45rem 1.2rem;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.14);
+  border: 1px solid rgba(255, 255, 255, 0.35);
+  font-size: 0.78rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: #f8fbff;
+}
+.winter-perks {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1.25rem;
+  margin-bottom: 2.75rem;
+}
+.winter-perks .perk {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.9rem 1.4rem;
+  border-radius: 14px;
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.22);
+  color: #eef5ff;
+  font-weight: 500;
+  box-shadow: 0 12px 30px rgba(9, 24, 44, 0.35);
+  backdrop-filter: blur(6px);
+}
+.winter-perks .perk-icon {
+  font-size: 1.5rem;
+}
+.winter-grid {
+  gap: 2.5rem;
+}
+.winter-card {
+  background: rgba(12, 25, 42, 0.55);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  color: #f6f9ff;
+  backdrop-filter: blur(12px);
+  position: relative;
+  overflow: hidden;
+  padding-bottom: 2.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.winter-card::before {
+  content: "";
+  position: absolute;
+  inset: -40% -40% auto -40%;
+  height: 60%;
+  background: radial-gradient(circle at center, rgba(255, 255, 255, 0.16), transparent 65%);
+  z-index: 0;
+}
+.winter-card > * {
+  position: relative;
+  z-index: 1;
+}
+.winter-card h3 {
+  color: #fdfefe;
+  font-size: 1.65rem;
+  margin-bottom: 1rem;
+}
+.offer-summary {
+  color: rgba(230, 242, 255, 0.86);
+  line-height: 1.7;
+  font-size: 1rem;
+  margin-bottom: 1.5rem;
+}
+.offer-highlights {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 1.75rem 0;
+  display: grid;
+  gap: 0.65rem;
+}
+.offer-highlights li {
+  position: relative;
+  padding-left: 1.75rem;
+  color: rgba(222, 235, 252, 0.9);
+  font-size: 0.98rem;
+}
+.offer-highlights li::before {
+  content: "✦";
+  position: absolute;
+  left: 0;
+  top: 0;
+  color: rgba(160, 210, 255, 0.9);
+}
+.offer-badge {
+  display: inline-flex;
+  padding: 0.5rem 1.1rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  background: linear-gradient(135deg, rgba(160, 210, 255, 0.95), rgba(97, 151, 241, 0.95));
+  border-radius: 999px;
+  color: #061225;
+  margin-bottom: 1.25rem;
+  box-shadow: 0 10px 28px rgba(97, 151, 241, 0.35);
+}
+.offer-badge.accent {
+  background: linear-gradient(135deg, rgba(255, 168, 214, 0.95), rgba(255, 111, 145, 0.95));
+  color: #3c061d;
+  box-shadow: 0 10px 28px rgba(255, 140, 180, 0.35);
+}
+.offer-badge.alt {
+  background: linear-gradient(135deg, rgba(156, 255, 217, 0.95), rgba(97, 237, 180, 0.95));
+  color: #02261a;
+  box-shadow: 0 10px 28px rgba(82, 214, 164, 0.35);
+}
+.winter-card .offer-btn {
+  background: linear-gradient(135deg, #66b8ff 0%, #7be0ff 100%);
+  color: #041224;
+  font-weight: 600;
+  border-radius: 999px;
+  padding: 12px 28px;
+  box-shadow: 0 12px 30px rgba(90, 185, 255, 0.35);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+  margin-top: auto;
+  align-self: center;
+}
+.winter-card .offer-btn:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 18px 36px rgba(90, 185, 255, 0.45);
+}
+.winter-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 24px 50px rgba(8, 20, 36, 0.55);
+}
+
+[data-theme="light"] .winter-offers {
+  background: linear-gradient(135deg, #14253d 0%, #1d3451 50%, #274463 100%);
+  border: 1px solid rgba(16, 36, 63, 0.25);
+  box-shadow: 0 20px 45px rgba(25, 41, 66, 0.35);
+  color: #f1f6ff;
+}
+[data-theme="light"] .winter-offers::after {
+  opacity: 0.32;
+}
+[data-theme="light"] .winter-banner p {
+  color: rgba(225, 236, 254, 0.9);
+}
+[data-theme="light"] .winter-perks .perk {
+  background: rgba(255, 255, 255, 0.12);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  color: #f2f6fb;
+}
+[data-theme="light"] .winter-card {
+  background: rgba(12, 34, 64, 0.82);
+  border: 1px solid rgba(22, 48, 82, 0.4);
+  box-shadow: 0 24px 48px rgba(18, 34, 58, 0.45);
+}
+[data-theme="light"] .winter-card .offer-summary,
+[data-theme="light"] .winter-card .offer-highlights li {
+  color: rgba(230, 240, 253, 0.92);
+}
+[data-theme="light"] .winter-card .offer-btn {
+  color: #041c32;
+}
+
+@media (max-width: 992px) {
+  .winter-offers {
+    padding: 3rem 2rem;
+  }
+  .winter-banner h2 {
+    font-size: 2.35rem;
+  }
+  .winter-grid {
+    gap: 2rem;
+  }
+}
+
+@media (max-width: 600px) {
+  .winter-offers {
+    padding: 2.5rem 1.6rem;
+  }
+  .winter-banner h2 {
+    font-size: 2.05rem;
+  }
+  .winter-perks .perk {
+    width: 100%;
+    justify-content: flex-start;
+  }
+}
 
 /* ========= FOOTER ========= */
 .footer {

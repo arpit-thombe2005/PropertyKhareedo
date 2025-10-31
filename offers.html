@@ -12,147 +12,145 @@
 </head>
 <body>
     <!-- Header -->
-    <header class="header"> 
+    <header class="header">
         <div class="header-container">
             <a href="homepage.html" class="logo">
                 <img src="images/transparent.png" alt="Company Logo" class="logo-image">
             </a>
+
             <div class="dropdown">
-            <button class="account-btn" id="accountBtn" title="Account">
-                <span style="font-size:22px;">👤</span>
-            </button>
+                <button class="account-btn" id="accountBtn" title="Account">
+                    <span style="font-size: 22px;">👤</span>
+                </button>
 
-            <div class="dropdown-content">
-            <div id="loggedOutMenu">
-                <a href="#" onclick="showModal('signupModal');return false;">Signup</a>
-                <a href="#" onclick="showModal('loginModal');return false;">Login</a>
-            </div>
-            <div id="loggedInMenu" style="display:none">
-                <a href="#" id="yourProfileBtn">Your Profile</a>
-                <a href="homepage.html" id="signoutBtn">Sign Out</a>
-            </div>
-            </div>
-            <div id="signupModal" class="modal modal-hidden">
-         <div class="modal-content" onclick="event.stopPropagation();">
-          <button class="close-btn" onclick="closeModal('signupModal')">&times;</button>
-          <div id="transition-overlay" class="transition-overlay">
-          <div class="transition-loader"></div>
-        </div> 
-        <!-- <div id="messageBox" style="color: green; margin-top: 10px;"></div> -->
-    
-    <div class="container">
-        <h2>Registration Form</h2>
-        <form id="contactForm">
-            <div class="name-row">
-                <div class="name-field">
-                    <label for="fname">First Name:</label>
-                    <input type="text" id="fname" name="fname" required>
-                </div>
-                <div class="name-field">
-                    <label for="mname">Middle Name:</label>
-                    <input type="text" id="mname" name="mname">
-                </div>
-                <div class="name-field">
-                    <label for="lname">Last Name:</label>
-                    <input type="text" id="lname" name="lname" required>
-                </div>
-            </div>
-
-            <div class="form-group">
-                <label for="email">Email:</label>
-                <input type="email" id="email" name="email" required>
-            </div>
-
-            <div class="form-group">
-                <label for="uname">Username:</label>
-                <input type="text" id="username" name="username" required>
-            </div>
-
-
-            <div class="form-group">
-                <label for="password">Password:</label>
-                <div class="password-container">
-                    <input type="password" id="password" name="password" required>
-                    <span id="togglePassword" class="eye-icon">🙈</span>
-                </div>
-                <div class="password-requirements">
-                    <small>Password must contain:</small>
-                    <ul>
-                        <li id="length">At least 7 characters</li>
-                        <li id="uppercase">One uppercase letter</li>
-                        <li id="lowercase">One lowercase letter</li>
-                        <li id="number">One number</li>
-                        <li id="special">One special character</li>
-                    </ul>
-                </div>
-            </div>
-
-            <div class="form-group">
-                <label for="gender">Gender:</label>
-                <select id="gender" name="gender" required>
-                    <option value="">--Select--</option>
-                    <option value="male">Male</option>
-                    <option value="female">Female</option>
-                    <option value="transgender">Transgender</option>
-                </select>
-            </div>
-
-            <div class="form-group">
-                <label for="phone">Phone Number:</label>
-                <input type="text" id="phone" name="phone" maxlength="10" required>
-            </div>
-
-            <div class="form-group">
-                <label for="altPhone">Alternate Phone Number:</label>
-                <input type="text" id="altPhone" name="altPhone" maxlength="10" required>
-            </div>
-             <div class="daba">
-           <a class="no-style" href="#" onclick="closeModal('signupModal'); showModal('loginModal'); return false;"> Already registered? Login </a>
-           </div>
-
-            <button type="submit" class="submit-btn">Sign Up</button>
-        </form>
-        <div class="error-message" id="loginErrorMessage"></div>
-       
-    </div> 
-    </div>
-  </div>
-    <div id="loginModal" class="modal modal-hidden">
-    <div class="modal-content" onclick="event.stopPropagation();">
-        <button class="close-btn" onclick="closeModal('loginModal')">&times;</button>
-        <div class="container">
-            <h2>Login</h2>
-            <form id="loginForm" autocomplete="off">
-                <div class="form-group">
-                    <label for="loginUsername">Username</label>
-                    <input type="text" id="loginUsername" name="username" required />
-                    <!-- <span id="usernameError" class="error-message"></span> -->
-                </div>
-
-                <div class="form-group">
-                    <label for="loginPassword">Password</label>
-                    <div class="password-container">
-                        <input type="password" id="loginPassword" name="password" required />
-                        <span id="loginTogglePassword" class="eye-icon" title="eye">🙈</span>
-                        <!-- <span id="passwordError" class="error-message"></span> -->
+                <div class="dropdown-content">
+                    <div id="loggedOutMenu">
+                        <a href="#" onclick="showModal('signupModal'); return false;">Signup</a>
+                        <a href="#" onclick="showModal('loginModal'); return false;">Login</a>
+                    </div>
+                    <div id="loggedInMenu" style="display: none;">
+                        <a href="#" id="yourProfileBtn">Your Profile</a>
+                        <a href="homepage.html" id="signoutBtn">Sign Out</a>
                     </div>
                 </div>
 
-                <div class="daba">
-                    <a class="no-style" href="#" onclick="closeModal('loginModal'); showModal('signupModal'); return false;">New User? Signup</a>
-                </div>
-                <div class="forgot-password-link">
-                    <a href="#" onclick="openForgotPasswordModal(); return false;">Forgot Password?</a>
-                </div>
-                <button type="submit" class="submit-btn">Login</button>
-            </form>
-            <div class="error-message" id="signupErrorMessage"></div>
-        </div>
-    </div>
-</div>
-  </div>
+                <div id="signupModal" class="modal modal-hidden">
+                    <div class="modal-content" onclick="event.stopPropagation();">
+                        <button class="close-btn" onclick="closeModal('signupModal')">&times;</button>
+                        <div id="transition-overlay" class="transition-overlay">
+                            <div class="transition-loader"></div>
+                        </div>
 
-        </div>      
+                        <div class="container">
+                            <h2>Registration Form</h2>
+                            <form id="contactForm">
+                                <div class="name-row">
+                                    <div class="name-field">
+                                        <label for="fname">First Name:</label>
+                                        <input type="text" id="fname" name="fname" required>
+                                    </div>
+                                    <div class="name-field">
+                                        <label for="mname">Middle Name:</label>
+                                        <input type="text" id="mname" name="mname">
+                                    </div>
+                                    <div class="name-field">
+                                        <label for="lname">Last Name:</label>
+                                        <input type="text" id="lname" name="lname" required>
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <label for="email">Email:</label>
+                                    <input type="email" id="email" name="email" required>
+                                </div>
+
+                                <div class="form-group">
+                                    <label for="uname">Username:</label>
+                                    <input type="text" id="username" name="username" required>
+                                </div>
+
+                                <div class="form-group">
+                                    <label for="password">Password:</label>
+                                    <div class="password-container">
+                                        <input type="password" id="password" name="password" required>
+                                        <span id="togglePassword" class="eye-icon">🙈</span>
+                                    </div>
+                                    <div class="password-requirements">
+                                        <small>Password must contain:</small>
+                                        <ul>
+                                            <li id="length">At least 7 characters</li>
+                                            <li id="uppercase">One uppercase letter</li>
+                                            <li id="lowercase">One lowercase letter</li>
+                                            <li id="number">One number</li>
+                                            <li id="special">One special character</li>
+                                        </ul>
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <label for="gender">Gender:</label>
+                                    <select id="gender" name="gender" required>
+                                        <option value="">--Select--</option>
+                                        <option value="male">Male</option>
+                                        <option value="female">Female</option>
+                                        <option value="transgender">Transgender</option>
+                                    </select>
+                                </div>
+
+                                <div class="form-group">
+                                    <label for="phone">Phone Number:</label>
+                                    <input type="text" id="phone" name="phone" maxlength="10" required>
+                                </div>
+
+                                <div class="form-group">
+                                    <label for="altPhone">Alternate Phone Number:</label>
+                                    <input type="text" id="altPhone" name="altPhone" maxlength="10" required>
+                                </div>
+
+                                <div class="daba">
+                                    <a class="no-style" href="#" onclick="closeModal('signupModal'); showModal('loginModal'); return false;">Already registered? Login</a>
+                                </div>
+
+                                <button type="submit" class="submit-btn">Sign Up</button>
+                            </form>
+                            <div class="error-message" id="loginErrorMessage"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="loginModal" class="modal modal-hidden">
+                    <div class="modal-content" onclick="event.stopPropagation();">
+                        <button class="close-btn" onclick="closeModal('loginModal')">&times;</button>
+                        <div class="container">
+                            <h2>Login</h2>
+                            <form id="loginForm" autocomplete="off">
+                                <div class="form-group">
+                                    <label for="loginUsername">Username</label>
+                                    <input type="text" id="loginUsername" name="username" required>
+                                </div>
+
+                                <div class="form-group">
+                                    <label for="loginPassword">Password</label>
+                                    <div class="password-container">
+                                        <input type="password" id="loginPassword" name="password" required>
+                                        <span id="loginTogglePassword" class="eye-icon" title="eye">🙈</span>
+                                    </div>
+                                </div>
+
+                                <div class="daba">
+                                    <a class="no-style" href="#" onclick="closeModal('loginModal'); showModal('signupModal'); return false;">New User? Signup</a>
+                                </div>
+                                <div class="forgot-password-link">
+                                    <a href="#" onclick="openForgotPasswordModal(); return false;">Forgot Password?</a>
+                                </div>
+                                <button type="submit" class="submit-btn">Login</button>
+                            </form>
+                            <div class="error-message" id="signupErrorMessage"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </header>
 
     <!-- Navigation Buttons -->
@@ -169,33 +167,56 @@
 
     <!-- Main Content -->
     <main class="main-content">
-        <section class="content-section">
-            <h2>Special Offers</h2>
-            <div class="offers-content">
-                <p>Don't miss out on our exclusive deals and limited-time promotions!</p>
-                
-                <div class="offers-grid">
-                    <div class="offer-card">
-                        <h3>Limited Time Deal</h3>
-                        <div class="offer-price">50% OFF</div>
-                        <p>Get 50% off on selected services. Valid until end of month.</p>
-                        <button class="offer-btn">Learn More</button>
-                    </div>
-                    
-                    <div class="offer-card">
-                        <h3>New Customer Special</h3>
-                        <div class="offer-price">25% OFF</div>
-                        <p>First-time customers enjoy 25% discount on all services.</p>
-                        <button class="offer-btn">Claim Now</button>
-                    </div>
-                    
-                    <div class="offer-card">
-                        <h3>Bundle Package</h3>
-                        <div class="offer-price">Buy 2 Get 1</div>
-                        <p>Purchase any two services and get the third one absolutely free.</p>
-                        <button class="offer-btn">View Details</button>
-                    </div>
-                </div>
+        <section class="content-section winter-offers">
+            <div class="snow-layer" aria-hidden="true"></div>
+            <div class="winter-banner">
+                <span class="winter-pill">Winter 2025 Collection</span>
+                <h2>Hot Properties, Cool Savings ❄️</h2>
+                <p>Seize limited-period closing advantages on curated homes and resort residences before the year winds down.</p>
+            </div>
+
+            <div class="winter-perks">
+                <div class="perk"><span class="perk-icon">🏙️</span><span>Metro-connected ready homes</span></div>
+                <div class="perk"><span class="perk-icon">🧊</span><span>Seasonal pricing locked till 31 Dec</span></div>
+                <div class="perk"><span class="perk-icon">🤝</span><span>Concierge support from booking to handover</span></div>
+            </div>
+
+            <div class="offers-grid winter-grid">
+                <article class="offer-card winter-card">
+                    <span class="offer-badge">Stamp Duty Covered</span>
+                    <h3>Snowfall Saver Residences</h3>
+                    <p class="offer-summary">Reserve a ready-to-move 2/3 BHK before 31 Dec and we reimburse 100% of stamp duty across select communities in Mumbai, Pune & Bengaluru.</p>
+                    <ul class="offer-highlights">
+                        <li>Inventory from ₹88L onwards with city skyline views</li>
+                        <li>Includes 12 months of facility management</li>
+                        <li>Priority access to handovers scheduled by March 2026</li>
+                    </ul>
+                    <button class="offer-btn claim-offer" data-offer-name="Snowfall Saver Residences">Claim Winter Deal</button>
+                </article>
+
+                <article class="offer-card winter-card">
+                    <span class="offer-badge accent">EMI Holiday</span>
+                    <h3>Frostbite Flexi Payment Plan</h3>
+                    <p class="offer-summary">Block your vacation villa with just 5% today and enjoy zero pre-EMI till possession on our Goa & Alibaug waterfront launches.</p>
+                    <ul class="offer-highlights">
+                        <li>Pay 5% now, 15% staggered with construction milestones</li>
+                        <li>First-season rental management by our hospitality desk</li>
+                        <li>Complimentary legal due diligence & registration support</li>
+                    </ul>
+                    <button class="offer-btn claim-offer" data-offer-name="Frostbite Flexi Payment Plan">Claim Winter Deal</button>
+                </article>
+
+                <article class="offer-card winter-card">
+                    <span class="offer-badge alt">Upgrade Credit</span>
+                    <h3>Holiday Home Upgrade Bundle</h3>
+                    <p class="offer-summary">Trade up to our luxury sky residences and receive furnishings worth ₹6L plus a smart-home retrofit tailored to your lifestyle.</p>
+                    <ul class="offer-highlights">
+                        <li>Applicable on 3.5 & 4.5 BHK penthouses</li>
+                        <li>Guaranteed home staging & move management</li>
+                        <li>Private interior design consult with our studio</li>
+                    </ul>
+                    <button class="offer-btn claim-offer" data-offer-name="Holiday Home Upgrade Bundle">Claim Winter Deal</button>
+                </article>
             </div>
         </section>
     </main>

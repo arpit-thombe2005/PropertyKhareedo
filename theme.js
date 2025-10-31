@@ -62,8 +62,29 @@ class ThemeManager {
             <span class="theme-toggle-icon sun">☀️</span>
             <span class="theme-toggle-icon moon">🌙</span>
         `;
-        
-        document.body.appendChild(toggle);
+
+        const headerContainer = document.querySelector('.header-container');
+
+        if (headerContainer) {
+            let actionsContainer = headerContainer.querySelector('.header-actions');
+
+            if (!actionsContainer) {
+                actionsContainer = document.createElement('div');
+                actionsContainer.className = 'header-actions';
+
+                const dropdown = headerContainer.querySelector('.dropdown');
+                if (dropdown) {
+                    headerContainer.removeChild(dropdown);
+                    actionsContainer.appendChild(dropdown);
+                }
+
+                headerContainer.appendChild(actionsContainer);
+            }
+
+            actionsContainer.appendChild(toggle);
+        } else {
+            document.body.appendChild(toggle);
+        }
     }
 
     updateToggleIcon() {
@@ -112,18 +133,16 @@ class ThemeManager {
     }
 }
 
-// Initialize theme manager when DOM is loaded
-document.addEventListener('DOMContentLoaded', () => {
-    window.themeManager = new ThemeManager();
-});
-
-// Also initialize immediately if DOM is already loaded
-if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', () => {
+function initThemeManager() {
+    if (!window.themeManager) {
         window.themeManager = new ThemeManager();
-    });
+    }
+}
+
+if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initThemeManager);
 } else {
-    window.themeManager = new ThemeManager();
+    initThemeManager();
 }
 
 // Export for module systems if needed
