@@ -105,6 +105,17 @@ document.addEventListener('DOMContentLoaded', () => {
         ? `<img src="${escapeHtml(p.image_url)}" alt="Image of ${escapeHtml(p.p_name || 'property')}" style="width:100%; height:140px; object-fit:cover; border-radius:7px;" />`
         : `<span style="color:#fff; font-weight:bold;">No Image Available</span>`;
 
+      // Build address without repeating the city if it already exists
+      let addressDisplay = (p.p_address || '').trim();
+      if (p.city) {
+        const cityTrimmed = p.city.trim();
+        if (!addressDisplay) {
+          addressDisplay = cityTrimmed;
+        } else if (!addressDisplay.toLowerCase().includes(cityTrimmed.toLowerCase())) {
+          addressDisplay += `, ${cityTrimmed}`;
+        }
+      }
+
       // Determine status color
       let statusColor = 'green';
       if (p.status && p.status.toLowerCase() === 'sold') {
@@ -122,7 +133,7 @@ document.addEventListener('DOMContentLoaded', () => {
           ${imgHtml}
         </div>
         <h3>${escapeHtml(p.p_name || 'Unnamed Property')}</h3>
-        <p><strong>Address:</strong> ${escapeHtml(p.p_address || '')}${p.city ? ', ' + escapeHtml(p.city) : ''}</p>
+        <p><strong>Address:</strong> ${escapeHtml(addressDisplay)}</p>
         <p><strong>Type:</strong> ${escapeHtml(p.p_type || '')}</p>
         <p><strong>Price:</strong> ₹${p.price_lakhs !== undefined ? p.price_lakhs : 'N/A'} Lakhs</p>
         <p><strong>Status:</strong> <span style="color:${statusColor}; font-weight:bold;">${escapeHtml(p.status || 'Available')}</span></p>
